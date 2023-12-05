@@ -10,8 +10,8 @@ import deilyData from "./deily.json"
 
 // let startData = deilyData;
 // let startData = foodmartData
-// let startData = gdmData
-let startData = pepsiData
+let startData = gdmData
+// let startData = pepsiData
 
 // categoryID
 // parentFolder
