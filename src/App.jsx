@@ -8,8 +8,8 @@ import deilyData from "./deily.json"
 
 
 
-let startData = deilyData;
-// let startData = foodmartData
+// let startData = deilyData;
+let startData = foodmartData
 // let startData = gdmData
 // let startData = pepsiData
 
@@ -128,6 +128,9 @@ function add_child_to_cat(parent, child) {
 import copy from 'copy-to-clipboard';
 
 
+
+
+
 function App() {
   const [arr1, setArr1] = useState(levelOneArr);
   const [arr2, setArr2] = useState([]);
@@ -135,6 +138,11 @@ function App() {
   const [arr4, setArr4] = useState([]);
   const [arr5, setArr5] = useState([]);
 
+  const changeData = (customerName) => {
+    console.log(customerName)
+  }
+  
+  
   const setArr2Ul = (obj) => {
     copy(obj.categoryID)
     setArr2([...obj.children]);
@@ -159,12 +167,20 @@ function App() {
 
   };
 
+
   return (
+    <>
+    <div>
+      <button onClick={() => changeData("deily")}>Deily</button>
+      <button onClick={() => changeData("foodmart")}>Foodmart</button>
+      <button onClick={() => changeData("gdm")}>GDM</button>
+      <button onClick={() => changeData("pepsi")}>Pepsi</button>
+    </div>
     <div className="App">
       {/* <pre> {JSON.stringify(levelOneArr, null, 2)}</pre> */}
       <ul className="arr1-ul">
         <li>რაოდენობა: {arr1.length}</li>
-        {arr1.map((obj) => {
+        {arr1.map((obj, i) => {
           return (
             <li
               onClick={() => setArr2Ul(obj)}
@@ -174,7 +190,7 @@ function App() {
                 color: obj.children ? "red" : "black",
               }}
             >
-              {obj.name}
+             <span style={{marginRight: "10px"}}>{i + 1}{") "}</span> {obj.name}
             </li>
           );
         })}
@@ -182,7 +198,7 @@ function App() {
       <ul className="arr2-ul">
       <li>რაოდენობა: {arr2.length}</li>
 
-        {arr2.map((obj) => {
+        {arr2.map((obj,i) => {
           return (
             <li
               onClick={() => setArr3Ul(obj)}
@@ -192,7 +208,7 @@ function App() {
                 color: obj.children ? "red" : "black",
               }}
             >
-              {obj.name}
+             <span style={{marginRight: "10px"}}>{i + 1}{") "}</span> {obj.name}
             </li>
           );
         })}
@@ -200,7 +216,7 @@ function App() {
       <ul className="arr3-ul">
       <li>რაოდენობა: {arr3.length}</li>
 
-        {arr3.map((obj) => {
+        {arr3.map((obj,i) => {
           return (
             <li
               onClick={() => setArr4Ul(obj)}
@@ -210,14 +226,14 @@ function App() {
                 color: obj.children ? "red" : "black",
               }}
             >
-              {obj.name}
+             <span style={{marginRight: "10px"}}>{i + 1}{") "}</span> {obj.name}
             </li>
           );
         })}
       </ul>
       <ul className="arr4-ul">
       <li>რაოდენობა: {arr4.length}</li>
-        {arr4.map((obj) => {
+        {arr4.map((obj, i) => {
           return (
             <li
               key={obj.id}
@@ -226,12 +242,14 @@ function App() {
                 color: obj.children ? "red" : "black",
               }}
             >
-              {obj.name}
+             <span style={{marginRight: "10px"}}>{i + 1}{") "}</span> {obj.name}
             </li>
           );
         })}
       </ul>
     </div>
+    </>
+
   );
 }
 
