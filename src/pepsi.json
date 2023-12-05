@@ -1,0 +1,306 @@
+[
+  {
+    "id": 754,
+    "accountID": "D00003",
+    "categoryID": "6352b314-6b9c-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "205e23f0-6b9b-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000649",
+    "name": "ლიმონათი"
+  },
+  {
+    "id": 755,
+    "accountID": "D00003",
+    "categoryID": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "205e23f0-6b9b-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000606",
+    "name": "მზა პროდუქცია"
+  },
+  {
+    "id": 756,
+    "accountID": "D00003",
+    "categoryID": "5454d073-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000082",
+    "name": "7 UP"
+  },
+  {
+    "id": 757,
+    "accountID": "D00003",
+    "categoryID": "5454d074-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000001027",
+    "name": "Adrenaline Rush"
+  },
+  {
+    "id": 758,
+    "accountID": "D00003",
+    "categoryID": "5454d075-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000094",
+    "name": "Aquafina lemon"
+  },
+  {
+    "id": 759,
+    "accountID": "D00003",
+    "categoryID": "5454d076-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000098",
+    "name": "Aquafina Tangerine"
+  },
+  {
+    "id": 760,
+    "accountID": "D00003",
+    "categoryID": "5454d077-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000001455",
+    "name": "Boom Best"
+  },
+  {
+    "id": 761,
+    "accountID": "D00003",
+    "categoryID": "5454d078-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000001306",
+    "name": "Boom Fire"
+  },
+  {
+    "id": 762,
+    "accountID": "D00003",
+    "categoryID": "5454d079-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000051",
+    "name": "Mirinda"
+  },
+  {
+    "id": 763,
+    "accountID": "D00003",
+    "categoryID": "5454d07a-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000064",
+    "name": "Mirinda Apple"
+  },
+  {
+    "id": 764,
+    "accountID": "D00003",
+    "categoryID": "5454d07b-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000077",
+    "name": "Mirinda Red Apple"
+  },
+  {
+    "id": 765,
+    "accountID": "D00003",
+    "categoryID": "5454d07c-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000001996",
+    "name": "Mirinda Watermelon"
+  },
+  {
+    "id": 766,
+    "accountID": "D00003",
+    "categoryID": "5454d07d-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000038",
+    "name": "Mountain Dew"
+  },
+  {
+    "id": 767,
+    "accountID": "D00003",
+    "categoryID": "5454d07e-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000013",
+    "name": "Pepsi"
+  },
+  {
+    "id": 768,
+    "accountID": "D00003",
+    "categoryID": "5454d07f-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000026",
+    "name": "Pepsi Light"
+  },
+  {
+    "id": 769,
+    "accountID": "D00003",
+    "categoryID": "5454d080-6b9e-11e7-80c1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00000000045",
+    "name": "Pepsi Max"
+  },
+  {
+    "id": 770,
+    "accountID": "D00003",
+    "categoryID": "3b9d2dfc-af52-11e7-80c8-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000011",
+    "name": "I Square"
+  },
+  {
+    "id": 771,
+    "accountID": "D00003",
+    "categoryID": "aa2ae4bd-b332-11e7-80c9-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000012",
+    "name": "Max Power"
+  },
+  {
+    "id": 772,
+    "accountID": "D00003",
+    "categoryID": "b737f576-c396-11e7-80cc-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000022",
+    "name": "Pepsi Black"
+  },
+  {
+    "id": 773,
+    "accountID": "D00003",
+    "categoryID": "09d6ee45-2c17-11e8-80ce-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000055",
+    "name": "Pepsi Cherry"
+  },
+  {
+    "id": 774,
+    "accountID": "D00003",
+    "categoryID": "43b0ddf6-4880-11e8-80d1-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000074",
+    "name": "Mirinda Pineapple"
+  },
+  {
+    "id": 775,
+    "accountID": "D00003",
+    "categoryID": "9f32d2e1-84d1-11e8-80d4-1c98ec2f94cf",
+    "parentFolder": "205e23f0-6b9b-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000128",
+    "name": "შუშხუნა ცივი ჩაი - IBERIA"
+  },
+  {
+    "id": 776,
+    "accountID": "D00003",
+    "categoryID": "a7a8f4c7-3374-11e9-80ea-1c98ec2f94cf",
+    "parentFolder": "6352b314-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000215",
+    "name": "ლიმონათი იბერია (ჯარისთვის)"
+  },
+  {
+    "id": 777,
+    "accountID": "D00003",
+    "categoryID": "ab29d116-3375-11e9-80ea-1c98ec2f94cf",
+    "parentFolder": "6352b314-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000222",
+    "name": "Chocolate"
+  },
+  {
+    "id": 778,
+    "accountID": "D00003",
+    "categoryID": "b48f78c5-3375-11e9-80ea-1c98ec2f94cf",
+    "parentFolder": "6352b314-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000223",
+    "name": "Lemonade"
+  },
+  {
+    "id": 779,
+    "accountID": "D00003",
+    "categoryID": "389cfd45-39ab-11e9-80ea-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000236",
+    "name": "Pepsi Lime"
+  },
+  {
+    "id": 780,
+    "accountID": "D00003",
+    "categoryID": "b8bfac02-7d23-11e9-80fd-1c98ec2f94cf",
+    "parentFolder": "5454d077-6b9e-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000273",
+    "name": "Mirinda Strawberr- lychee"
+  },
+  {
+    "id": 781,
+    "accountID": "D00003",
+    "categoryID": "f9eea750-7d23-11e9-80fd-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000274",
+    "name": "Mirinda Strawberr- lychee"
+  },
+  {
+    "id": 782,
+    "accountID": "D00003",
+    "categoryID": "5d7711ad-4d6a-11ea-8124-1c98ec2f94cf",
+    "parentFolder": "6352b315-6b9c-11e7-80c1-1c98ec2f94cf",
+    "code": "00-00000489",
+    "name": "Pepsi Black Mango"
+  },
+  {
+    "id": 783,
+    "accountID": "D00003",
+    "categoryID": "bd1b0a15-5b4c-11eb-813c-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000533",
+    "name": "14.სნექები"
+  },
+  {
+    "id": 784,
+    "accountID": "D00003",
+    "categoryID": "cc2568cb-5b4c-11eb-813c-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000534",
+    "name": "CHEETOS"
+  },
+  {
+    "id": 785,
+    "accountID": "D00003",
+    "categoryID": "cc2568cc-5b4c-11eb-813c-1c98ec2f94cf",
+    "parentFolder": "d69f8b1f-5b4c-11eb-813c-1c98ec2f94cf",
+    "code": "00-00000535",
+    "name": "DORITOS"
+  },
+  {
+    "id": 786,
+    "accountID": "D00003",
+    "categoryID": "d69f8b1f-5b4c-11eb-813c-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000536",
+    "name": "HRUSTEAM"
+  },
+  {
+    "id": 787,
+    "accountID": "D00003",
+    "categoryID": "d69f8b20-5b4c-11eb-813c-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000537",
+    "name": "LAYS"
+  },
+  {
+    "id": 788,
+    "accountID": "D00003",
+    "categoryID": "4348426e-79ba-11eb-8143-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000546",
+    "name": "CSD"
+  },
+  {
+    "id": 789,
+    "accountID": "D00003",
+    "categoryID": "4400947d-79bb-11eb-8143-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000547",
+    "name": "წვენი + ლიპტონი"
+  },
+  {
+    "id": 790,
+    "accountID": "D00003",
+    "categoryID": "c016aaa3-79bb-11eb-8143-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000548",
+    "name": "Premix"
+  },
+  {
+    "id": 791,
+    "accountID": "D00003",
+    "categoryID": "a0c9d528-7cf0-11eb-8143-1c98ec2f94cf",
+    "parentFolder": "",
+    "code": "00-00000550",
+    "name": "Max Power"
+  }
+]

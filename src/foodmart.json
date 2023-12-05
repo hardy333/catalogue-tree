@@ -1,0 +1,1866 @@
+[
+  {
+    "id": 521,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000001",
+    "name": "0100 | ალკოჰოლი"
+  },
+  {
+    "id": 522,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000002",
+    "name": "0900 | უალკოჰოლო სასმელები"
+  },
+  {
+    "id": 523,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000003",
+    "name": "1800 | კონსერვაცია"
+  },
+  {
+    "id": 524,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e5-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000004",
+    "name": "0200 | ხილ-ბოსტანი"
+  },
+  {
+    "id": 525,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000005",
+    "name": "1400 | შოკოლადი, კანფეტი, კევი"
+  },
+  {
+    "id": 526,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000007",
+    "name": "1000 | ქიმიური საქონელი"
+  },
+  {
+    "id": 527,
+    "accountID": "R00002",
+    "categoryID": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000008",
+    "name": "0300 | ბაკალეა"
+  },
+  {
+    "id": 528,
+    "accountID": "R00002",
+    "categoryID": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000009",
+    "name": "0400 | გაყინული პროდუქტი"
+  },
+  {
+    "id": 529,
+    "accountID": "R00002",
+    "categoryID": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000010",
+    "name": "0600 | საკონდიტრო"
+  },
+  {
+    "id": 530,
+    "accountID": "R00002",
+    "categoryID": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000012",
+    "name": "0500 | რძის პროდუქტი"
+  },
+  {
+    "id": 531,
+    "accountID": "R00002",
+    "categoryID": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000013",
+    "name": "1300 | ყავა, ჩაი, კაკაო"
+  },
+  {
+    "id": 532,
+    "accountID": "R00002",
+    "categoryID": "56d1c5d8-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000014",
+    "name": "0800 | თამბაქო"
+  },
+  {
+    "id": 533,
+    "accountID": "R00002",
+    "categoryID": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000015",
+    "name": "0700 | საყოფაცხოვრებო ნივთები"
+  },
+  {
+    "id": 534,
+    "accountID": "R00002",
+    "categoryID": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000016",
+    "name": "1500 | ხორცის პროდუქტი"
+  },
+  {
+    "id": 535,
+    "accountID": "R00002",
+    "categoryID": "30f31192-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000028",
+    "name": "2100 | პური, სუხარი, ფუნთუშა"
+  },
+  {
+    "id": 536,
+    "accountID": "R00002",
+    "categoryID": "3d44c86c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "",
+    "code": "00-00000044",
+    "name": "2500 | კვერცხი"
+  },
+  {
+    "id": 537,
+    "accountID": "R00002",
+    "categoryID": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "parentFolder": "",
+    "code": "ЦБ-00000138",
+    "name": "2200 | სნეკი"
+  },
+  {
+    "id": 538,
+    "accountID": "R00002",
+    "categoryID": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "parentFolder": "",
+    "code": "ЦБ-00000259",
+    "name": "2400 | პარფიუმერია"
+  },
+  {
+    "id": 539,
+    "accountID": "R00002",
+    "categoryID": "7635e438-f42a-11ea-a011-3863bb3fa173",
+    "parentFolder": "",
+    "code": "ЦБ-00000262",
+    "name": "2300 | ქაღალდი"
+  },
+  {
+    "id": 540,
+    "accountID": "R00002",
+    "categoryID": "30f31189-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000019",
+    "name": "0105 | ლუდი ქართული"
+  },
+  {
+    "id": 541,
+    "accountID": "R00002",
+    "categoryID": "30f3118c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000022",
+    "name": "0101 | არაყი"
+  },
+  {
+    "id": 542,
+    "accountID": "R00002",
+    "categoryID": "370d3339-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000029",
+    "name": "0108 | შამპანიური"
+  },
+  {
+    "id": 543,
+    "accountID": "R00002",
+    "categoryID": "4a5d1de6-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000057",
+    "name": "0107 | ღვინო"
+  },
+  {
+    "id": 544,
+    "accountID": "R00002",
+    "categoryID": "4a5d1de9-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000060",
+    "name": "0103 | კონიაკი, ბრენდი"
+  },
+  {
+    "id": 545,
+    "accountID": "R00002",
+    "categoryID": "5d7628f4-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "46056270008",
+    "name": "0102 | ვისკი"
+  },
+  {
+    "id": 546,
+    "accountID": "R00002",
+    "categoryID": "63c7fd3f-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000100",
+    "name": "0104 | ლიქიორი,კოქტეილი,ვერმუტი"
+  },
+  {
+    "id": 547,
+    "accountID": "R00002",
+    "categoryID": "63c7fd40-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000101",
+    "name": "0106 | ტეკილა, ჯინი, რომი"
+  },
+  {
+    "id": 548,
+    "accountID": "R00002",
+    "categoryID": "9ef1385f-e78a-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000058",
+    "name": "0109 | ლუდი იმპ."
+  },
+  {
+    "id": 549,
+    "accountID": "R00002",
+    "categoryID": "680bb971-e799-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000059",
+    "name": "0110 | ჭაჭა"
+  },
+  {
+    "id": 550,
+    "accountID": "R00002",
+    "categoryID": "96ff2f44-e826-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e2-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000060",
+    "name": "0111 | ღვინო დიდი შეფუთვა"
+  },
+  {
+    "id": 551,
+    "accountID": "R00002",
+    "categoryID": "30f3118a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000020",
+    "name": "0903 | მატონიზ. ენერგეტიკული სასმელები"
+  },
+  {
+    "id": 552,
+    "accountID": "R00002",
+    "categoryID": "50ebadfa-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000067",
+    "name": "0904 | მინერალური წყალი"
+  },
+  {
+    "id": 553,
+    "accountID": "R00002",
+    "categoryID": "50ebadff-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000072",
+    "name": "0901 | გაზ. გამაგრილებელი სასმელები"
+  },
+  {
+    "id": 554,
+    "accountID": "R00002",
+    "categoryID": "572517f2-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000080",
+    "name": "0906 | წყალი"
+  },
+  {
+    "id": 555,
+    "accountID": "R00002",
+    "categoryID": "5d7628ea-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000085",
+    "name": "0905 | წვენი"
+  },
+  {
+    "id": 556,
+    "accountID": "R00002",
+    "categoryID": "6a081e0c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000110",
+    "name": "0902 | ცივი ჩაი"
+  },
+  {
+    "id": 557,
+    "accountID": "R00002",
+    "categoryID": "6995fe01-e5db-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e3-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000051",
+    "name": "0907 | ცივი ყავა"
+  },
+  {
+    "id": 558,
+    "accountID": "R00002",
+    "categoryID": "30f3118b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000021",
+    "name": "1805 | ბოსტნეულის სადილი"
+  },
+  {
+    "id": 559,
+    "accountID": "R00002",
+    "categoryID": "30f3118e-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000024",
+    "name": "1804 | ხორცის კონსერვი"
+  },
+  {
+    "id": 560,
+    "accountID": "R00002",
+    "categoryID": "370d333d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000033",
+    "name": "1801 | ზეთის ხილი"
+  },
+  {
+    "id": 561,
+    "accountID": "R00002",
+    "categoryID": "5d7628ed-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000088",
+    "name": "1806 | თევზის კონსერვი"
+  },
+  {
+    "id": 562,
+    "accountID": "R00002",
+    "categoryID": "6a081e12-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000116",
+    "name": "1803 | რძის კონსერვი"
+  },
+  {
+    "id": 563,
+    "accountID": "R00002",
+    "categoryID": "7c884238-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000146",
+    "name": "1802 | ხილის კონსერვი"
+  },
+  {
+    "id": 564,
+    "accountID": "R00002",
+    "categoryID": "8edbb06a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000179",
+    "name": "1812 | მჟავეული"
+  },
+  {
+    "id": 565,
+    "accountID": "R00002",
+    "categoryID": "9cc47e55-ee99-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000147",
+    "name": "1807 | სოკოს კონსერვი"
+  },
+  {
+    "id": 566,
+    "accountID": "R00002",
+    "categoryID": "a4a24a7d-ee99-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000148",
+    "name": "1808 | მჟავეული სხვადასხვა"
+  },
+  {
+    "id": 567,
+    "accountID": "R00002",
+    "categoryID": "abfac996-ee99-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000149",
+    "name": "1809 | სიმინდის კონსერვი"
+  },
+  {
+    "id": 568,
+    "accountID": "R00002",
+    "categoryID": "b331f56a-ee99-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000150",
+    "name": "1810 | ბარდის კონსერვი"
+  },
+  {
+    "id": 569,
+    "accountID": "R00002",
+    "categoryID": "bae0260d-ee99-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e4-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000151",
+    "name": "1811 | ტომატ პასტა"
+  },
+  {
+    "id": 570,
+    "accountID": "R00002",
+    "categoryID": "3e6d34e3-0582-11ec-8685-0a94efb54825",
+    "parentFolder": "50a9f6e5-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00006611",
+    "name": "0211 | შეფუთული ხილ-ბოსტანი"
+  },
+  {
+    "id": 571,
+    "accountID": "R00002",
+    "categoryID": "7658ea84-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e5-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000130",
+    "name": "0208 | ხილი"
+  },
+  {
+    "id": 572,
+    "accountID": "R00002",
+    "categoryID": "7658ea86-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e5-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000132",
+    "name": "0207 | ბოსტნეული"
+  },
+  {
+    "id": 573,
+    "accountID": "R00002",
+    "categoryID": "7658ea87-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e5-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000133",
+    "name": "0210 | ბოსტნეული ქართული"
+  },
+  {
+    "id": 574,
+    "accountID": "R00002",
+    "categoryID": "7658ea88-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e5-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000134",
+    "name": "0209 | ხილი ქართული"
+  },
+  {
+    "id": 575,
+    "accountID": "R00002",
+    "categoryID": "30f3118f-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000025",
+    "name": "1403 | ბატონჩიკი"
+  },
+  {
+    "id": 576,
+    "accountID": "R00002",
+    "categoryID": "30f31191-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000027",
+    "name": "1402 | შოკოლადის ნაკრები"
+  },
+  {
+    "id": 577,
+    "accountID": "R00002",
+    "categoryID": "50ebadfb-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000068",
+    "name": "1406 | შოკოლადის ფილა"
+  },
+  {
+    "id": 578,
+    "accountID": "R00002",
+    "categoryID": "572517ef-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000077",
+    "name": "1405 | შოკოლადის კრემი"
+  },
+  {
+    "id": 579,
+    "accountID": "R00002",
+    "categoryID": "572517f0-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000078",
+    "name": "1409 | საღეჭი რეზინი"
+  },
+  {
+    "id": 580,
+    "accountID": "R00002",
+    "categoryID": "5d7628eb-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000086",
+    "name": "1401 | ასაწონი კანფეტი"
+  },
+  {
+    "id": 581,
+    "accountID": "R00002",
+    "categoryID": "5d7628f2-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000093",
+    "name": "1407 | კანფეტი, კარამელი"
+  },
+  {
+    "id": 582,
+    "accountID": "R00002",
+    "categoryID": "6a081e09-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000107",
+    "name": "1408 | ჟელიბონი"
+  },
+  {
+    "id": 583,
+    "accountID": "R00002",
+    "categoryID": "7021555d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000126",
+    "name": "1404 | საბავშვო ტკბილეული"
+  },
+  {
+    "id": 584,
+    "accountID": "R00002",
+    "categoryID": "954f6f72-ee89-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e6-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000137",
+    "name": "1410 | ასაწონი შოკოლადი"
+  },
+  {
+    "id": 585,
+    "accountID": "R00002",
+    "categoryID": "370d333a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000030",
+    "name": "1003 | თმის კოსმეტიკა"
+  },
+  {
+    "id": 586,
+    "accountID": "R00002",
+    "categoryID": "434166f5-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000053",
+    "name": "1006 | საპარსი საშუალებები"
+  },
+  {
+    "id": 587,
+    "accountID": "R00002",
+    "categoryID": "50ebae01-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000074",
+    "name": "1005 | საპონი, დუშგელი"
+  },
+  {
+    "id": 588,
+    "accountID": "R00002",
+    "categoryID": "572517ed-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000075",
+    "name": "1004 | სახის და ტანის კოსმეტიკა"
+  },
+  {
+    "id": 589,
+    "accountID": "R00002",
+    "categoryID": "572517f1-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000079",
+    "name": "1007 | პირის ღრუს მოვლის საშუალებები"
+  },
+  {
+    "id": 590,
+    "accountID": "R00002",
+    "categoryID": "572517f3-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000081",
+    "name": "1010 | სარეცხი ფხვნილი და საშუალებები"
+  },
+  {
+    "id": 591,
+    "accountID": "R00002",
+    "categoryID": "572517f4-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000082",
+    "name": "1016 | ჭურჭლის რეცხვის საშუალება"
+  },
+  {
+    "id": 592,
+    "accountID": "R00002",
+    "categoryID": "572517f5-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000083",
+    "name": "1011 | საფენი"
+  },
+  {
+    "id": 593,
+    "accountID": "R00002",
+    "categoryID": "572517f6-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000084",
+    "name": "1012 | საწმენდი საშუალება"
+  },
+  {
+    "id": 594,
+    "accountID": "R00002",
+    "categoryID": "7658ea8d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000139",
+    "name": "1001 | აეროზოლი"
+  },
+  {
+    "id": 595,
+    "accountID": "R00002",
+    "categoryID": "82928527-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000151",
+    "name": "1018 | მწერების საწინააღმდეგო საშუალებები"
+  },
+  {
+    "id": 596,
+    "accountID": "R00002",
+    "categoryID": "8292852c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000156",
+    "name": "1019 | მაგიდის ტილო"
+  },
+  {
+    "id": 597,
+    "accountID": "R00002",
+    "categoryID": "8292852d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000157",
+    "name": "1015 | ფეხსაცმლის მოვლის საშუალებები"
+  },
+  {
+    "id": 598,
+    "accountID": "R00002",
+    "categoryID": "7dad53bd-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000229",
+    "name": "1022 | სარეცხი ფხვნილი"
+  },
+  {
+    "id": 599,
+    "accountID": "R00002",
+    "categoryID": "871b0713-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000230",
+    "name": "1023 | სარეცხი სითხე"
+  },
+  {
+    "id": 600,
+    "accountID": "R00002",
+    "categoryID": "8ebd50d4-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000231",
+    "name": "1024 | ლაქის ამომყვანი"
+  },
+  {
+    "id": 601,
+    "accountID": "R00002",
+    "categoryID": "c8ab0dbf-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000232",
+    "name": "1025 | მინის საწმენდი სითხე"
+  },
+  {
+    "id": 602,
+    "accountID": "R00002",
+    "categoryID": "d344ae77-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000233",
+    "name": "1026 | მილების საწმენდი"
+  },
+  {
+    "id": 603,
+    "accountID": "R00002",
+    "categoryID": "da7254cb-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000234",
+    "name": "1027 | ავეჯის საწმენდი სითხე"
+  },
+  {
+    "id": 604,
+    "accountID": "R00002",
+    "categoryID": "e31cd74a-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000235",
+    "name": "1028 | უნიტაზის საწმენდი"
+  },
+  {
+    "id": 605,
+    "accountID": "R00002",
+    "categoryID": "ea115c97-f426-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e8-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000236",
+    "name": "1029 | იატაკის საწმენდი სითხე"
+  },
+  {
+    "id": 606,
+    "accountID": "R00002",
+    "categoryID": "370d333b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000031",
+    "name": "0304 | კეჩუპი"
+  },
+  {
+    "id": 607,
+    "accountID": "R00002",
+    "categoryID": "370d333e-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000034",
+    "name": "0305 | საწებელა"
+  },
+  {
+    "id": 608,
+    "accountID": "R00002",
+    "categoryID": "370d3340-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000036",
+    "name": "0308 | მაიონეზი"
+  },
+  {
+    "id": 609,
+    "accountID": "R00002",
+    "categoryID": "370d3341-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000037",
+    "name": "0315 | წიწიბურა"
+  },
+  {
+    "id": 610,
+    "accountID": "R00002",
+    "categoryID": "370d3342-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000038",
+    "name": "0317 | შვრიის ფანტელი"
+  },
+  {
+    "id": 611,
+    "accountID": "R00002",
+    "categoryID": "3d44c869-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000041",
+    "name": "0325 | სწრაფი კვება"
+  },
+  {
+    "id": 612,
+    "accountID": "R00002",
+    "categoryID": "4a5d1de7-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000058",
+    "name": "0323 | გამოსაცხობი საშუალებები"
+  },
+  {
+    "id": 613,
+    "accountID": "R00002",
+    "categoryID": "50ebadfc-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000069",
+    "name": "0303 | აჯიკა, მდოგვი"
+  },
+  {
+    "id": 614,
+    "accountID": "R00002",
+    "categoryID": "63c7fd3b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000096",
+    "name": "0306 | სოუსი"
+  },
+  {
+    "id": 615,
+    "accountID": "R00002",
+    "categoryID": "63c7fd3c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000097",
+    "name": "0312 | მაკარონი"
+  },
+  {
+    "id": 616,
+    "accountID": "R00002",
+    "categoryID": "63c7fd3d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000098",
+    "name": "0310 | ზეთი ზეითუნის"
+  },
+  {
+    "id": 617,
+    "accountID": "R00002",
+    "categoryID": "63c7fd3e-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000099",
+    "name": "0309 | ზეთი მზესუმზირის"
+  },
+  {
+    "id": 618,
+    "accountID": "R00002",
+    "categoryID": "63c7fd41-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000102",
+    "name": "0320 | ბურღულეული სხვადასხვა"
+  },
+  {
+    "id": 619,
+    "accountID": "R00002",
+    "categoryID": "63c7fd42-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000103",
+    "name": "0314 | მანი"
+  },
+  {
+    "id": 620,
+    "accountID": "R00002",
+    "categoryID": "63c7fd43-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000104",
+    "name": "0324 | მურაბა, ჯემი, თაფლი"
+  },
+  {
+    "id": 621,
+    "accountID": "R00002",
+    "categoryID": "63c7fd44-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000105",
+    "name": "0328 | ტყემალი"
+  },
+  {
+    "id": 622,
+    "accountID": "R00002",
+    "categoryID": "6a081e0a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000108",
+    "name": "0302 | საკმაზი სუნელები"
+  },
+  {
+    "id": 623,
+    "accountID": "R00002",
+    "categoryID": "6a081e0b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000109",
+    "name": "0313 | ბრინჯი"
+  },
+  {
+    "id": 624,
+    "accountID": "R00002",
+    "categoryID": "6a081e13-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000117",
+    "name": "0319 | ფქვილი"
+  },
+  {
+    "id": 625,
+    "accountID": "R00002",
+    "categoryID": "70215557-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000120",
+    "name": "0321 | შაქარი"
+  },
+  {
+    "id": 626,
+    "accountID": "R00002",
+    "categoryID": "70215559-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000122",
+    "name": "0322 | მარილი"
+  },
+  {
+    "id": 627,
+    "accountID": "R00002",
+    "categoryID": "7021555c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000125",
+    "name": "0327 | ძმარი"
+  },
+  {
+    "id": 628,
+    "accountID": "R00002",
+    "categoryID": "7658ea89-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000135",
+    "name": "0311 | ზეთი სიმინდის"
+  },
+  {
+    "id": 629,
+    "accountID": "R00002",
+    "categoryID": "88ceae4a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000166",
+    "name": "0332 | ბავშვთა კვება"
+  },
+  {
+    "id": 630,
+    "accountID": "R00002",
+    "categoryID": "e5168f71-ee98-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000144",
+    "name": "0329 | ხლოპია/მიუსლი"
+  },
+  {
+    "id": 631,
+    "accountID": "R00002",
+    "categoryID": "eb5d504b-ee98-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000145",
+    "name": "0330 | სიმინდის ფქვილი/ღერღილი"
+  },
+  {
+    "id": 632,
+    "accountID": "R00002",
+    "categoryID": "f9bafe51-ee98-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000146",
+    "name": "0331 | მჟავე კიტრი"
+  },
+  {
+    "id": 633,
+    "accountID": "R00002",
+    "categoryID": "d2537480-ee99-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000152",
+    "name": "2106 | ხლებცი"
+  },
+  {
+    "id": 634,
+    "accountID": "R00002",
+    "categoryID": "5ed59546-cd43-11e9-a377-3863bb3fa173",
+    "parentFolder": "50a9f6e9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00053853",
+    "name": "0333 | წონის ბაკალეა"
+  },
+  {
+    "id": 635,
+    "accountID": "R00002",
+    "categoryID": "370d333c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000032",
+    "name": "0411 | ნახევარფაბრიკატები"
+  },
+  {
+    "id": 636,
+    "accountID": "R00002",
+    "categoryID": "3d44c86a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000042",
+    "name": "0403 | გაყინული ზღვის დელიკატესები"
+  },
+  {
+    "id": 637,
+    "accountID": "R00002",
+    "categoryID": "3d44c86b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000043",
+    "name": "0404 | გაყინული თევზი"
+  },
+  {
+    "id": 638,
+    "accountID": "R00002",
+    "categoryID": "3d44c86d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000045",
+    "name": "0409 | გაყინული ფრინველის ხორცი და ნაწილები"
+  },
+  {
+    "id": 639,
+    "accountID": "R00002",
+    "categoryID": "7c884237-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000145",
+    "name": "0406 | ნაყინი"
+  },
+  {
+    "id": 640,
+    "accountID": "R00002",
+    "categoryID": "97699a65-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000183",
+    "name": "0401 | გაყინული ბოსტნეული"
+  },
+  {
+    "id": 641,
+    "accountID": "R00002",
+    "categoryID": "97699a67-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000185",
+    "name": "0402 | გაყინული ხილი"
+  },
+  {
+    "id": 642,
+    "accountID": "R00002",
+    "categoryID": "97699a69-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ea-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000187",
+    "name": "0408 | გაყინული ხორცი"
+  },
+  {
+    "id": 643,
+    "accountID": "R00002",
+    "categoryID": "434166f0-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000048",
+    "name": "0609 | წონის ორცხობილა, ვაფლი"
+  },
+  {
+    "id": 644,
+    "accountID": "R00002",
+    "categoryID": "4a5d1de5-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000056",
+    "name": "0607 | კრუასანი"
+  },
+  {
+    "id": 645,
+    "accountID": "R00002",
+    "categoryID": "50ebadf8-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000065",
+    "name": "0611 | ტორტი/ნამცხვარი"
+  },
+  {
+    "id": 646,
+    "accountID": "R00002",
+    "categoryID": "7658ea8c-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000138",
+    "name": "0612 | ნამცხვარი"
+  },
+  {
+    "id": 647,
+    "accountID": "R00002",
+    "categoryID": "7c884234-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000142",
+    "name": "0604 | ზეფირი, ხალვა, მარმელადი"
+  },
+  {
+    "id": 648,
+    "accountID": "R00002",
+    "categoryID": "7c88423a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000148",
+    "name": "0603 | დიაბეტური"
+  },
+  {
+    "id": 649,
+    "accountID": "R00002",
+    "categoryID": "97699a64-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000182",
+    "name": "0606 | პასკა"
+  },
+  {
+    "id": 650,
+    "accountID": "R00002",
+    "categoryID": "97699a66-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000184",
+    "name": "0601 | აღმოსავლური ტკბილეული"
+  },
+  {
+    "id": 651,
+    "accountID": "R00002",
+    "categoryID": "f9e210ff-ee8a-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000139",
+    "name": "0613 | კექსი/რულეტი"
+  },
+  {
+    "id": 652,
+    "accountID": "R00002",
+    "categoryID": "4aaac44a-ee8b-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000140",
+    "name": "0614 | ორცხობილა"
+  },
+  {
+    "id": 653,
+    "accountID": "R00002",
+    "categoryID": "52e5661d-ee8b-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000141",
+    "name": "0615 | ბისკვიტი"
+  },
+  {
+    "id": 654,
+    "accountID": "R00002",
+    "categoryID": "59e370eb-ee8b-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000142",
+    "name": "0616 | ვაფლი"
+  },
+  {
+    "id": 655,
+    "accountID": "R00002",
+    "categoryID": "62f44e96-ee8b-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6eb-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000143",
+    "name": "0617 | ტკბილი კრეკერი/ჩხირი"
+  },
+  {
+    "id": 656,
+    "accountID": "R00002",
+    "categoryID": "3d44c86e-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000046",
+    "name": "0504 | რძე, ნაღები"
+  },
+  {
+    "id": 657,
+    "accountID": "R00002",
+    "categoryID": "434166f1-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000049",
+    "name": "0503 | ხაჭო, სიროკი"
+  },
+  {
+    "id": 658,
+    "accountID": "R00002",
+    "categoryID": "434166f2-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000050",
+    "name": "0507 | ყველი მაგარი"
+  },
+  {
+    "id": 659,
+    "accountID": "R00002",
+    "categoryID": "434166f3-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000051",
+    "name": "0501 | იოგურტი, მუსი, პუდინგი"
+  },
+  {
+    "id": 660,
+    "accountID": "R00002",
+    "categoryID": "434166f6-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000054",
+    "name": "0510 | არაჟანი"
+  },
+  {
+    "id": 661,
+    "accountID": "R00002",
+    "categoryID": "4a5d1de4-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000055",
+    "name": "0508 | მაწონი, კეფირი, აირანი"
+  },
+  {
+    "id": 662,
+    "accountID": "R00002",
+    "categoryID": "4a5d1dea-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000061",
+    "name": "0502 | კარაქი , სპრედი"
+  },
+  {
+    "id": 663,
+    "accountID": "R00002",
+    "categoryID": "4a5d1dec-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000063",
+    "name": "0506 | ყველი მდნარი"
+  },
+  {
+    "id": 664,
+    "accountID": "R00002",
+    "categoryID": "70215555-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000118",
+    "name": "0509 | ყველი ქართული"
+  },
+  {
+    "id": 665,
+    "accountID": "R00002",
+    "categoryID": "a8623a36-ee7f-11ea-a011-3863bb3fa173",
+    "parentFolder": "50a9f6ed-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000130",
+    "name": "0511 | მარგარინი"
+  },
+  {
+    "id": 666,
+    "accountID": "R00002",
+    "categoryID": "f231edeb-755a-11ed-80c3-ac162d8afd47",
+    "parentFolder": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00063919",
+    "name": "1306 | ჩამოსასხმელი ყავა"
+  },
+  {
+    "id": 667,
+    "accountID": "R00002",
+    "categoryID": "434166f4-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000052",
+    "name": "1301 | ყავა ხსნადი"
+  },
+  {
+    "id": 668,
+    "accountID": "R00002",
+    "categoryID": "5d7628ec-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000087",
+    "name": "1302 | ყავა ნალექიანი"
+  },
+  {
+    "id": 669,
+    "accountID": "R00002",
+    "categoryID": "5d7628ee-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000089",
+    "name": "1303 | ჩაი"
+  },
+  {
+    "id": 670,
+    "accountID": "R00002",
+    "categoryID": "63c7fd45-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000106",
+    "name": "1304 | კაკაო"
+  },
+  {
+    "id": 671,
+    "accountID": "R00002",
+    "categoryID": "a99c5d64-c2e2-11eb-b5f1-3863bb3fa173",
+    "parentFolder": "50a9f6ee-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00004507",
+    "name": "1305 | ყავა ერთჯერადი"
+  },
+  {
+    "id": 672,
+    "accountID": "R00002",
+    "categoryID": "4a5d1de8-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000059",
+    "name": "0804 | სიგარეტი"
+  },
+  {
+    "id": 673,
+    "accountID": "R00002",
+    "categoryID": "aab34167-1257-11e8-9ee8-3863bb3fa173",
+    "parentFolder": "56d1c5d8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00040964",
+    "name": "0805 | სიგარა"
+  },
+  {
+    "id": 674,
+    "accountID": "R00002",
+    "categoryID": "7f9eb37a-7bc9-11e9-a374-3863bb3fa173",
+    "parentFolder": "56d1c5d8-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00051309",
+    "name": "0806 | თამბაქო და თამბაქოს აქსესუარები"
+  },
+  {
+    "id": 675,
+    "accountID": "R00002",
+    "categoryID": "544e9fdf-90ca-11ed-80c3-ac162d8afd47",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "02-00000621",
+    "name": "0724 | პარკი"
+  },
+  {
+    "id": 676,
+    "accountID": "R00002",
+    "categoryID": "c2759cfb-15a0-11ee-80c3-ac162d8afd47",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "02-00004839",
+    "name": "0725 | ლოტოს ბილეთები"
+  },
+  {
+    "id": 677,
+    "accountID": "R00002",
+    "categoryID": "0c789200-275f-11ec-868a-0a94efb54825",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "01-00000301",
+    "name": "0723 | კოვიდ ასორტიმენტი"
+  },
+  {
+    "id": 678,
+    "accountID": "R00002",
+    "categoryID": "50ebadfe-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000071",
+    "name": "0703 | ელემენტები, ნათურები"
+  },
+  {
+    "id": 679,
+    "accountID": "R00002",
+    "categoryID": "572517ee-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000076",
+    "name": "0713 | სარჭი, რეზ. ხელთათმანი"
+  },
+  {
+    "id": 680,
+    "accountID": "R00002",
+    "categoryID": "6a081e11-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000115",
+    "name": "0716 | სააქციო პროდუქცია"
+  },
+  {
+    "id": 681,
+    "accountID": "R00002",
+    "categoryID": "70215556-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000119",
+    "name": "0707 | სანთელი"
+  },
+  {
+    "id": 682,
+    "accountID": "R00002",
+    "categoryID": "7021555a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000123",
+    "name": "0722 | ერთჯერადი ჭურჭელი"
+  },
+  {
+    "id": 683,
+    "accountID": "R00002",
+    "categoryID": "7021555b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000124",
+    "name": "0720 | სანთებელა,ასანთი"
+  },
+  {
+    "id": 684,
+    "accountID": "R00002",
+    "categoryID": "7c884232-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000140",
+    "name": "0715 | სხვადასხვა ჯგუფის გარეშე"
+  },
+  {
+    "id": 685,
+    "accountID": "R00002",
+    "categoryID": "7c884235-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000143",
+    "name": "0714 | ცხოველთა აქსესუარები, კვება"
+  },
+  {
+    "id": 686,
+    "accountID": "R00002",
+    "categoryID": "7c884236-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000144",
+    "name": "0708 | საოფისე საქონელი"
+  },
+  {
+    "id": 687,
+    "accountID": "R00002",
+    "categoryID": "7c884239-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000147",
+    "name": "0704 | ელექტრო საქონელი"
+  },
+  {
+    "id": 688,
+    "accountID": "R00002",
+    "categoryID": "7c88423b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000149",
+    "name": "0706 | სადღესასწაულო სასაჩუქრე"
+  },
+  {
+    "id": 689,
+    "accountID": "R00002",
+    "categoryID": "82928526-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000150",
+    "name": "0719 | ჟურნალ-გაზეთები"
+  },
+  {
+    "id": 690,
+    "accountID": "R00002",
+    "categoryID": "8292852b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000155",
+    "name": "0712 | სასკოლო საქონელი"
+  },
+  {
+    "id": 691,
+    "accountID": "R00002",
+    "categoryID": "88ceae45-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000161",
+    "name": "0717 | ლიტერატურა"
+  },
+  {
+    "id": 692,
+    "accountID": "R00002",
+    "categoryID": "88ceae46-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000162",
+    "name": "0718 | მობილურის ბარათები"
+  },
+  {
+    "id": 693,
+    "accountID": "R00002",
+    "categoryID": "88ceae47-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000163",
+    "name": "0709 | საოჯახო ინვენტარი"
+  },
+  {
+    "id": 694,
+    "accountID": "R00002",
+    "categoryID": "88ceae49-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000165",
+    "name": "0711 | სასაჩუქრე სუვენირები"
+  },
+  {
+    "id": 695,
+    "accountID": "R00002",
+    "categoryID": "88ceae4b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000167",
+    "name": "0701 | ავტომობილების აქსესუარები"
+  },
+  {
+    "id": 696,
+    "accountID": "R00002",
+    "categoryID": "cc079c5f-a252-11e6-918e-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00033557",
+    "name": "07201 | სანთებელა"
+  },
+  {
+    "id": 697,
+    "accountID": "R00002",
+    "categoryID": "413e208e-f450-11e5-9eb9-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00030191",
+    "name": "0721 | ქროსი"
+  },
+  {
+    "id": 698,
+    "accountID": "R00002",
+    "categoryID": "5499bd33-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000237",
+    "name": "07031 | ელემენტები"
+  },
+  {
+    "id": 699,
+    "accountID": "R00002",
+    "categoryID": "6489b3c8-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000238",
+    "name": "07032 | ნათურები"
+  },
+  {
+    "id": 700,
+    "accountID": "R00002",
+    "categoryID": "79080ca4-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000239",
+    "name": "07061 | სათამაშოები"
+  },
+  {
+    "id": 701,
+    "accountID": "R00002",
+    "categoryID": "8bd52b0e-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000240",
+    "name": "07081 | საკანცელარიო"
+  },
+  {
+    "id": 702,
+    "accountID": "R00002",
+    "categoryID": "ba0940c1-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000241",
+    "name": "07111 | სუვენირები"
+  },
+  {
+    "id": 703,
+    "accountID": "R00002",
+    "categoryID": "ca53aba0-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000242",
+    "name": "07121 | ტექსტილი"
+  },
+  {
+    "id": 704,
+    "accountID": "R00002",
+    "categoryID": "edee209b-f427-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000243",
+    "name": "07131 | ნაგვის პარკი"
+  },
+  {
+    "id": 705,
+    "accountID": "R00002",
+    "categoryID": "10f9c302-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000244",
+    "name": "07132 | ჭურჭლის ღრუბელი"
+  },
+  {
+    "id": 706,
+    "accountID": "R00002",
+    "categoryID": "1715ab17-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000245",
+    "name": "07133 | წებო"
+  },
+  {
+    "id": 707,
+    "accountID": "R00002",
+    "categoryID": "20ae3731-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5d9-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000246",
+    "name": "07134 | ფოლგა/პერგამენტი"
+  },
+  {
+    "id": 708,
+    "accountID": "R00002",
+    "categoryID": "30f3118d-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000023",
+    "name": "1507 | ახალი ხორცი ნახევარფაბრიკატები"
+  },
+  {
+    "id": 709,
+    "accountID": "R00002",
+    "categoryID": "5d7628ef-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000090",
+    "name": "1501 | სოსისი, სარდელი"
+  },
+  {
+    "id": 710,
+    "accountID": "R00002",
+    "categoryID": "5d7628f0-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000091",
+    "name": "1502 | ძეხვი მოხარშული"
+  },
+  {
+    "id": 711,
+    "accountID": "R00002",
+    "categoryID": "5d7628f1-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000092",
+    "name": "1503 | ხორცის დელიკატესები"
+  },
+  {
+    "id": 712,
+    "accountID": "R00002",
+    "categoryID": "7658ea8a-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000136",
+    "name": "1508 | თევზი ახალი"
+  },
+  {
+    "id": 713,
+    "accountID": "R00002",
+    "categoryID": "82928530-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "00-00000160",
+    "name": "1504 | პაშტეტი"
+  },
+  {
+    "id": 714,
+    "accountID": "R00002",
+    "categoryID": "cf49b7b1-ee7f-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000131",
+    "name": "1505 | ძეხვი შებოლილი"
+  },
+  {
+    "id": 715,
+    "accountID": "R00002",
+    "categoryID": "de61110d-ee7f-11ea-a011-3863bb3fa173",
+    "parentFolder": "56d1c5da-8850-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000132",
+    "name": "1506 | ძეხვი ნედლად გამოყვანილი"
+  },
+  {
+    "id": 716,
+    "accountID": "R00002",
+    "categoryID": "7658ea8b-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "30f31192-8851-11e4-8f6e-b083fec0b293",
+    "code": "00-00000137",
+    "name": "2105 | ფუნთუშეული"
+  },
+  {
+    "id": 717,
+    "accountID": "R00002",
+    "categoryID": "b82478af-ee7e-11ea-a011-3863bb3fa173",
+    "parentFolder": "30f31192-8851-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000126",
+    "name": "2101 | პური თეთრი"
+  },
+  {
+    "id": 718,
+    "accountID": "R00002",
+    "categoryID": "d255fd13-ee7e-11ea-a011-3863bb3fa173",
+    "parentFolder": "30f31192-8851-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000127",
+    "name": "2102 | პური რუხი"
+  },
+  {
+    "id": 719,
+    "accountID": "R00002",
+    "categoryID": "eb8d90fa-ee7e-11ea-a011-3863bb3fa173",
+    "parentFolder": "30f31192-8851-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000128",
+    "name": "2103 | პური თონე/ლავაში"
+  },
+  {
+    "id": 720,
+    "accountID": "R00002",
+    "categoryID": "f9769b94-ee7e-11ea-a011-3863bb3fa173",
+    "parentFolder": "30f31192-8851-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00000129",
+    "name": "2104 | სუხარი"
+  },
+  {
+    "id": 721,
+    "accountID": "R00002",
+    "categoryID": "89cd7ba7-0581-11ec-8685-0a94efb54825",
+    "parentFolder": "3d44c86c-8851-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00006609",
+    "name": "2501 | კვერცხი მარკეტი"
+  },
+  {
+    "id": 722,
+    "accountID": "R00002",
+    "categoryID": "94c323e3-0581-11ec-8685-0a94efb54825",
+    "parentFolder": "3d44c86c-8851-11e4-8f6e-b083fec0b293",
+    "code": "ЦБ-00006610",
+    "name": "2502 | კვერცხი ცალობა"
+  },
+  {
+    "id": 723,
+    "accountID": "R00002",
+    "categoryID": "fa8383cb-98d9-11ea-836b-3863bb3fa173",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "00-00061332",
+    "name": "2206 | მზესუმზირა"
+  },
+  {
+    "id": 724,
+    "accountID": "R00002",
+    "categoryID": "3d44c867-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "00-00000039",
+    "name": "2203 | ბურბუშელა/პოპკორნი"
+  },
+  {
+    "id": 725,
+    "accountID": "R00002",
+    "categoryID": "4a5d1ded-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "00-00000064",
+    "name": "2204 | სუხარიკი"
+  },
+  {
+    "id": 726,
+    "accountID": "R00002",
+    "categoryID": "50ebadf9-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "00-00000066",
+    "name": "2205 | ჩიფსი"
+  },
+  {
+    "id": 727,
+    "accountID": "R00002",
+    "categoryID": "50ebadfd-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "00-00000070",
+    "name": "2202 | თხილეული"
+  },
+  {
+    "id": 728,
+    "accountID": "R00002",
+    "categoryID": "7658ea85-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "00-00000131",
+    "name": "2201 | თხილი/ჩირი წონის"
+  },
+  {
+    "id": 729,
+    "accountID": "R00002",
+    "categoryID": "eadb32b2-ee88-11ea-a011-3863bb3fa173",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000133",
+    "name": "2207 | მიწის თხილი"
+  },
+  {
+    "id": 730,
+    "accountID": "R00002",
+    "categoryID": "0aff5a67-ee89-11ea-a011-3863bb3fa173",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000134",
+    "name": "2208 | ორცხობილა/კრეკერი მარილიანი"
+  },
+  {
+    "id": 731,
+    "accountID": "R00002",
+    "categoryID": "44d086ce-ee89-11ea-a011-3863bb3fa173",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000135",
+    "name": "2209 | ჩირი"
+  },
+  {
+    "id": 732,
+    "accountID": "R00002",
+    "categoryID": "4fcbbff2-ee89-11ea-a011-3863bb3fa173",
+    "parentFolder": "322ebf22-ee8a-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000136",
+    "name": "2210 | ჩურჩხელა"
+  },
+  {
+    "id": 733,
+    "accountID": "R00002",
+    "categoryID": "434166ef-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "00-00000047",
+    "name": "2401 | დეზადორი, სტიკი"
+  },
+  {
+    "id": 734,
+    "accountID": "R00002",
+    "categoryID": "50ebae00-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "00-00000073",
+    "name": "2417 | ბავშვთა ჰიგიენა (0-3 წლ)"
+  },
+  {
+    "id": 735,
+    "accountID": "R00002",
+    "categoryID": "c0577aa8-a252-11e6-918e-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "00-00033556",
+    "name": "2416 | პრეზერვატივი"
+  },
+  {
+    "id": 736,
+    "accountID": "R00002",
+    "categoryID": "77907131-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000247",
+    "name": "2402 | შამპუნი/თმის ბალზამი"
+  },
+  {
+    "id": 737,
+    "accountID": "R00002",
+    "categoryID": "826cb871-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000248",
+    "name": "2403 | საღებავი თმის"
+  },
+  {
+    "id": 738,
+    "accountID": "R00002",
+    "categoryID": "9e0cd0bf-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000249",
+    "name": "2404 | ყურის ჩხირი"
+  },
+  {
+    "id": 739,
+    "accountID": "R00002",
+    "categoryID": "a88c4254-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000250",
+    "name": "2405 | ბამბის დისკო"
+  },
+  {
+    "id": 740,
+    "accountID": "R00002",
+    "categoryID": "af3bbfb9-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000251",
+    "name": "2406 | ბალზამი/გელი ტანის"
+  },
+  {
+    "id": 741,
+    "accountID": "R00002",
+    "categoryID": "bbacb0e9-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000252",
+    "name": "2407 | საპონი მყარი"
+  },
+  {
+    "id": 742,
+    "accountID": "R00002",
+    "categoryID": "c35d42ea-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000253",
+    "name": "2408 | საპონი თხევადი"
+  },
+  {
+    "id": 743,
+    "accountID": "R00002",
+    "categoryID": "ccd47bc1-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000254",
+    "name": "2409 | საშეტი"
+  },
+  {
+    "id": 744,
+    "accountID": "R00002",
+    "categoryID": "d4e90790-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000255",
+    "name": "2410 | საპარსი ქაფი/ლოსიონი/გელი"
+  },
+  {
+    "id": 745,
+    "accountID": "R00002",
+    "categoryID": "e184d183-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000256",
+    "name": "2411 | კბილის პასტა"
+  },
+  {
+    "id": 746,
+    "accountID": "R00002",
+    "categoryID": "ea236d22-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000257",
+    "name": "2412 | კბილის ჯაგრისი"
+  },
+  {
+    "id": 747,
+    "accountID": "R00002",
+    "categoryID": "f4b38858-f428-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000258",
+    "name": "2413 | პირის ღრუს სავლები"
+  },
+  {
+    "id": 748,
+    "accountID": "R00002",
+    "categoryID": "cdc0a1f4-f429-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000260",
+    "name": "2415 | ქალის ჰიგიენური საფენი"
+  },
+  {
+    "id": 749,
+    "accountID": "R00002",
+    "categoryID": "1a1c463e-f42a-11ea-a011-3863bb3fa173",
+    "parentFolder": "2645502d-f429-11ea-a011-3863bb3fa173",
+    "code": "ЦБ-00000261",
+    "name": "2414 | ღრუბელი ტანის"
+  },
+  {
+    "id": 750,
+    "accountID": "R00002",
+    "categoryID": "370d333f-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "7635e438-f42a-11ea-a011-3863bb3fa173",
+    "code": "00-00000035",
+    "name": "2302 | ხელსახოცი"
+  },
+  {
+    "id": 751,
+    "accountID": "R00002",
+    "categoryID": "5d7628f3-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "7635e438-f42a-11ea-a011-3863bb3fa173",
+    "code": "00-00000094",
+    "name": "2301 | ტუალეტის ქაღალდი"
+  },
+  {
+    "id": 752,
+    "accountID": "R00002",
+    "categoryID": "8292852e-8851-11e4-8f6e-b083fec0b293",
+    "parentFolder": "7635e438-f42a-11ea-a011-3863bb3fa173",
+    "code": "00-00000158",
+    "name": "2303 | პირსახოცი ქაღალდის"
+  },
+  {
+    "id": 753,
+    "accountID": "R00002",
+    "categoryID": "c48a2fa5-5de9-11ea-aa8a-3863bb3fa173",
+    "parentFolder": "7635e438-f42a-11ea-a011-3863bb3fa173",
+    "code": "00-00060652",
+    "name": "2304 | სველი ხელსახოცი"
+  }
+]

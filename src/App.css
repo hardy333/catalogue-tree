@@ -1,0 +1,20 @@
+body{
+  width: 100%;
+  height: 500vh;
+  border: 1px solid red;
+  /* text-align: center; */
+}
+
+.App{
+  display: flex;
+  gap: 20px;
+}
+
+ul{
+  padding: 10px;
+  border: 1px solid yellow;
+}
+
+li{
+  cursor: pointer;
+}

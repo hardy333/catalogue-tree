@@ -1,0 +1,2970 @@
+[
+  {
+    "id": 72,
+    "accountID": "D00002",
+    "categoryID": "996aa823-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000971",
+    "name": "Condiments and Dressings"
+  },
+  {
+    "id": 1,
+    "accountID": "D00002",
+    "categoryID": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000001",
+    "name": ".პირველადი მოხმარება"
+  },
+  {
+    "id": 2,
+    "accountID": "D00002",
+    "categoryID": "c40298f3-9a51-11e5-80bc-000c295e18a3",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000002",
+    "name": ".სასმელები"
+  },
+  {
+    "id": 3,
+    "accountID": "D00002",
+    "categoryID": "dffcc211-9a51-11e5-80bc-000c295e18a3",
+    "parentFolder": "b148f6e6-8328-11e6-80c1-005056b569bf",
+    "code": "00-00000004",
+    "name": "ორცხობილა"
+  },
+  {
+    "id": 4,
+    "accountID": "D00002",
+    "categoryID": "f060523b-9a51-11e5-80bc-000c295e18a3",
+    "parentFolder": "b148f6e6-8328-11e6-80c1-005056b569bf",
+    "code": "00-00000005",
+    "name": "შოკოლადი"
+  },
+  {
+    "id": 5,
+    "accountID": "D00002",
+    "categoryID": "91b296e8-9a52-11e5-80bc-000c295e18a3",
+    "parentFolder": "c40298f3-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000006",
+    "name": "ნატურალური წვენები"
+  },
+  {
+    "id": 6,
+    "accountID": "D00002",
+    "categoryID": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "parentFolder": "c40298f3-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000007",
+    "name": "ყავა"
+  },
+  {
+    "id": 7,
+    "accountID": "D00002",
+    "categoryID": "9a28a7e1-9a52-11e5-80bc-000c295e18a3",
+    "parentFolder": "c40298f3-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000008",
+    "name": "ჩაი"
+  },
+  {
+    "id": 8,
+    "accountID": "D00002",
+    "categoryID": "a25999f4-9a52-11e5-80bc-000c295e18a3",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000009",
+    "name": "სარეცხი საშუალებები"
+  },
+  {
+    "id": 9,
+    "accountID": "D00002",
+    "categoryID": "b15112cd-9a52-11e5-80bc-000c295e18a3",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000010",
+    "name": "შამპუნები"
+  },
+  {
+    "id": 10,
+    "accountID": "D00002",
+    "categoryID": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000011",
+    "name": "ტექნიკა"
+  },
+  {
+    "id": 11,
+    "accountID": "D00002",
+    "categoryID": "e5d06503-9a59-11e5-80bc-000c295e18a3",
+    "parentFolder": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "code": "00-00000012",
+    "name": "პლანშეტები"
+  },
+  {
+    "id": 12,
+    "accountID": "D00002",
+    "categoryID": "e5d06504-9a59-11e5-80bc-000c295e18a3",
+    "parentFolder": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "code": "00-00000013",
+    "name": "ნოუთბუქები"
+  },
+  {
+    "id": 13,
+    "accountID": "D00002",
+    "categoryID": "f079fc40-9a59-11e5-80bc-000c295e18a3",
+    "parentFolder": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "code": "00-00000014",
+    "name": "კომპიუტერები"
+  },
+  {
+    "id": 14,
+    "accountID": "D00002",
+    "categoryID": "f7daf1e3-9a59-11e5-80bc-000c295e18a3",
+    "parentFolder": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "code": "00-00000015",
+    "name": "ფოტო აპარატები"
+  },
+  {
+    "id": 15,
+    "accountID": "D00002",
+    "categoryID": "f7daf1e4-9a59-11e5-80bc-000c295e18a3",
+    "parentFolder": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "code": "00-00000016",
+    "name": "ტელევიზორები"
+  },
+  {
+    "id": 16,
+    "accountID": "D00002",
+    "categoryID": "0220bebb-9a5a-11e5-80bc-000c295e18a3",
+    "parentFolder": "d83a51de-9a59-11e5-80bc-000c295e18a3",
+    "code": "00-00000017",
+    "name": "მაცივრები"
+  },
+  {
+    "id": 17,
+    "accountID": "D00002",
+    "categoryID": "1bc7cf7a-9a6d-11e5-80bc-000c295e18a3",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000018",
+    "name": "თხევადი საპნები"
+  },
+  {
+    "id": 18,
+    "accountID": "D00002",
+    "categoryID": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000205",
+    "name": "წარმოება"
+  },
+  {
+    "id": 19,
+    "accountID": "D00002",
+    "categoryID": "9801d124-816e-11e6-80c1-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000206",
+    "name": "გარსაცმები"
+  },
+  {
+    "id": 20,
+    "accountID": "D00002",
+    "categoryID": "9fa4eda9-816e-11e6-80c1-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000207",
+    "name": "მზა პროდუქცია"
+  },
+  {
+    "id": 21,
+    "accountID": "D00002",
+    "categoryID": "a682250e-816e-11e6-80c1-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000208",
+    "name": "ნახევარფაბრიკატები"
+  },
+  {
+    "id": 22,
+    "accountID": "D00002",
+    "categoryID": "b40ce41b-816e-11e6-80c1-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000209",
+    "name": "ნედლეული"
+  },
+  {
+    "id": 23,
+    "accountID": "D00002",
+    "categoryID": "b40ce41c-816e-11e6-80c1-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000210",
+    "name": "სამშენებლო ნარჩენები"
+  },
+  {
+    "id": 24,
+    "accountID": "D00002",
+    "categoryID": "b148f6e6-8328-11e6-80c1-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000240",
+    "name": ".საკონდიტრო ნაწარმი"
+  },
+  {
+    "id": 25,
+    "accountID": "D00002",
+    "categoryID": "29cee4e4-83b3-11e6-80c1-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000244",
+    "name": ".ბაკალეა"
+  },
+  {
+    "id": 26,
+    "accountID": "D00002",
+    "categoryID": "362dfd4b-83b4-11e6-80c1-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000246",
+    "name": ".გაყინული პროდუქცია"
+  },
+  {
+    "id": 27,
+    "accountID": "D00002",
+    "categoryID": "3ccf9951-83b4-11e6-80c1-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000247",
+    "name": ".რძის პროდუქტები"
+  },
+  {
+    "id": 28,
+    "accountID": "D00002",
+    "categoryID": "44cfb27a-83b4-11e6-80c1-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000248",
+    "name": ".სიგარეტები"
+  },
+  {
+    "id": 29,
+    "accountID": "D00002",
+    "categoryID": "f8bff3df-83b7-11e6-80c1-005056b569bf",
+    "parentFolder": "c40298f3-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000297",
+    "name": "ალკოჰოლური სასმელები"
+  },
+  {
+    "id": 30,
+    "accountID": "D00002",
+    "categoryID": "d87e3931-895e-11e6-80c3-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000338",
+    "name": "არაპირდაპირი მასალა"
+  },
+  {
+    "id": 31,
+    "accountID": "D00002",
+    "categoryID": "a62afdfc-ab6b-11e6-80c4-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000342",
+    "name": "მომსახურება"
+  },
+  {
+    "id": 32,
+    "accountID": "D00002",
+    "categoryID": "d5dd84f1-b9bf-11e5-80cc-005056a600d9",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000124",
+    "name": "საწვავი"
+  },
+  {
+    "id": 33,
+    "accountID": "D00002",
+    "categoryID": "63197903-bdec-11e5-80cc-005056a600d9",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000128",
+    "name": "საკანცელარიო მასალები"
+  },
+  {
+    "id": 34,
+    "accountID": "D00002",
+    "categoryID": "6c923d2b-bf5e-11e5-80cc-005056a600d9",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000155",
+    "name": "სახარჯი მასალები"
+  },
+  {
+    "id": 35,
+    "accountID": "D00002",
+    "categoryID": "603c245f-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000353",
+    "name": "ფარმაცია"
+  },
+  {
+    "id": 36,
+    "accountID": "D00002",
+    "categoryID": "b5afee5c-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000354",
+    "name": "ალერგია"
+  },
+  {
+    "id": 37,
+    "accountID": "D00002",
+    "categoryID": "b5afee5d-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000355",
+    "name": "დამამშვიდებელი"
+  },
+  {
+    "id": 38,
+    "accountID": "D00002",
+    "categoryID": "c0a63b58-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000356",
+    "name": "გრიპი და გაციება"
+  },
+  {
+    "id": 39,
+    "accountID": "D00002",
+    "categoryID": "c8043308-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000357",
+    "name": "ტკივილგამაყუჩებელი"
+  },
+  {
+    "id": 40,
+    "accountID": "D00002",
+    "categoryID": "d889ea63-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000358",
+    "name": "ხველების საწინააღმდეგო"
+  },
+  {
+    "id": 41,
+    "accountID": "D00002",
+    "categoryID": "febbdb7d-280d-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000359",
+    "name": "ოფთალმოლოგია"
+  },
+  {
+    "id": 42,
+    "accountID": "D00002",
+    "categoryID": "0b93c875-280e-11e7-80cd-005056b569bf",
+    "parentFolder": "603c245f-280d-11e7-80cd-005056b569bf",
+    "code": "00-00000360",
+    "name": "ყელის ტკივილი"
+  },
+  {
+    "id": 43,
+    "accountID": "D00002",
+    "categoryID": "82b2597e-2a57-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000402",
+    "name": "მინა"
+  },
+  {
+    "id": 44,
+    "accountID": "D00002",
+    "categoryID": "02389e97-2a8b-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000407",
+    "name": "ნაწრთობი მინა"
+  },
+  {
+    "id": 45,
+    "accountID": "D00002",
+    "categoryID": "5a959925-2b23-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000419",
+    "name": "პროფილები"
+  },
+  {
+    "id": 46,
+    "accountID": "D00002",
+    "categoryID": "a43e8a83-2b3b-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000421",
+    "name": "რბილი ავეჯი"
+  },
+  {
+    "id": 47,
+    "accountID": "D00002",
+    "categoryID": "6856f76d-2b3c-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000423",
+    "name": "მასალები რბილი ავეჯისთვის"
+  },
+  {
+    "id": 48,
+    "accountID": "D00002",
+    "categoryID": "3fa155ff-2b3d-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000425",
+    "name": "რბილი ავეჯის ნახევარფაბრიკატები"
+  },
+  {
+    "id": 49,
+    "accountID": "D00002",
+    "categoryID": "98758ec8-2fe6-11e7-80cd-005056b569bf",
+    "parentFolder": "71b4e13d-816d-11e6-80c1-005056b569bf",
+    "code": "00-00000433",
+    "name": "პირდაპირი მასალები"
+  },
+  {
+    "id": 50,
+    "accountID": "D00002",
+    "categoryID": "7d4e96d9-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000169",
+    "name": "ფანჯრის რაფები"
+  },
+  {
+    "id": 51,
+    "accountID": "D00002",
+    "categoryID": "8d957d5d-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "7d4e96d9-c008-11e5-80ce-005056a600d9",
+    "code": "00-00000170",
+    "name": "KOMMERLING კაკლისფერი ფანჯრის რაფა (მახასიათებლებით)"
+  },
+  {
+    "id": 52,
+    "accountID": "D00002",
+    "categoryID": "958dc64b-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "7d4e96d9-c008-11e5-80ce-005056a600d9",
+    "code": "00-00000171",
+    "name": "KOMMERLING კაკლისფერი ფანჯრის რაფა (მახასიათებლების გარეშე)"
+  },
+  {
+    "id": 53,
+    "accountID": "D00002",
+    "categoryID": "a626e3cb-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000172",
+    "name": "დაზგა დანადგარები"
+  },
+  {
+    "id": 54,
+    "accountID": "D00002",
+    "categoryID": "b78847fc-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000173",
+    "name": "ხელსაწყოები"
+  },
+  {
+    "id": 55,
+    "accountID": "D00002",
+    "categoryID": "bdbbb20a-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "b78847fc-c008-11e5-80ce-005056a600d9",
+    "code": "00-00000174",
+    "name": "ბურღები"
+  },
+  {
+    "id": 56,
+    "accountID": "D00002",
+    "categoryID": "c5319017-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "b78847fc-c008-11e5-80ce-005056a600d9",
+    "code": "00-00000175",
+    "name": "დანადგარის ნაწილები"
+  },
+  {
+    "id": 57,
+    "accountID": "D00002",
+    "categoryID": "cc0b3c57-c008-11e5-80ce-005056a600d9",
+    "parentFolder": "b78847fc-c008-11e5-80ce-005056a600d9",
+    "code": "00-00000176",
+    "name": "დრელი"
+  },
+  {
+    "id": 58,
+    "accountID": "D00002",
+    "categoryID": "326a8b2c-b289-11e7-80d6-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000441",
+    "name": "ძირითადი საშუალებები"
+  },
+  {
+    "id": 59,
+    "accountID": "D00002",
+    "categoryID": "2c55f690-6e2b-11e8-80ed-8b275c3a4661",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000456",
+    "name": "ცხობილები"
+  },
+  {
+    "id": 60,
+    "accountID": "D00002",
+    "categoryID": "aac8361c-868c-11e8-80f1-005056b569bf",
+    "parentFolder": "b78847fc-c008-11e5-80ce-005056a600d9",
+    "code": "00-00000474",
+    "name": "ტანსაცმელი"
+  },
+  {
+    "id": 61,
+    "accountID": "D00002",
+    "categoryID": "73864124-f7fc-11e8-80f5-005056b569bf",
+    "parentFolder": "185bbae0-a979-11e9-8100-0050569d7759",
+    "code": "00-00000478",
+    "name": "სამშენებლო / სარემონტო მასალები"
+  },
+  {
+    "id": 62,
+    "accountID": "D00002",
+    "categoryID": "2cf492b7-5481-11e9-80fd-005056b569bf",
+    "parentFolder": "c40298f3-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00000479",
+    "name": "გაზიანი სასმელები"
+  },
+  {
+    "id": 63,
+    "accountID": "D00002",
+    "categoryID": "185bbae0-a979-11e9-8100-0050569d7759",
+    "parentFolder": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "code": "00-00000962",
+    "name": "old"
+  },
+  {
+    "id": 64,
+    "accountID": "D00002",
+    "categoryID": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "parentFolder": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "code": "00-00000963",
+    "name": "Beverage"
+  },
+  {
+    "id": 65,
+    "accountID": "D00002",
+    "categoryID": "8c982544-a979-11e9-8100-0050569d7759",
+    "parentFolder": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "code": "00-00000964",
+    "name": "Juice"
+  },
+  {
+    "id": 66,
+    "accountID": "D00002",
+    "categoryID": "92f96913-a979-11e9-8100-0050569d7759",
+    "parentFolder": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "code": "00-00000965",
+    "name": "Soft Drinks"
+  },
+  {
+    "id": 67,
+    "accountID": "D00002",
+    "categoryID": "5fba7b6f-a97a-11e9-8100-0050569d7759",
+    "parentFolder": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "code": "00-00000966",
+    "name": "Sport, Energy and Functional Drinks"
+  },
+  {
+    "id": 68,
+    "accountID": "D00002",
+    "categoryID": "672205f6-a97a-11e9-8100-0050569d7759",
+    "parentFolder": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "code": "00-00000967",
+    "name": "Food"
+  },
+  {
+    "id": 69,
+    "accountID": "D00002",
+    "categoryID": "6e59e0c7-a97a-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000968",
+    "name": "Baked Goods"
+  },
+  {
+    "id": 70,
+    "accountID": "D00002",
+    "categoryID": "7c6571ed-a97a-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000969",
+    "name": "Canned Food"
+  },
+  {
+    "id": 71,
+    "accountID": "D00002",
+    "categoryID": "572fb357-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000970",
+    "name": "Cereals, Grains and Pulses"
+  },
+  {
+    "id": 73,
+    "accountID": "D00002",
+    "categoryID": "a18e8f86-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000972",
+    "name": "Confectionery"
+  },
+  {
+    "id": 74,
+    "accountID": "D00002",
+    "categoryID": "b98c96e7-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000973",
+    "name": "Dairy Products"
+  },
+  {
+    "id": 75,
+    "accountID": "D00002",
+    "categoryID": "c6a02f9e-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000974",
+    "name": "Fish and Seafood"
+  },
+  {
+    "id": 76,
+    "accountID": "D00002",
+    "categoryID": "cf4012ee-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000975",
+    "name": "Frozen Food"
+  },
+  {
+    "id": 77,
+    "accountID": "D00002",
+    "categoryID": "da4259ba-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000976",
+    "name": "Fruit and Vegetables"
+  },
+  {
+    "id": 78,
+    "accountID": "D00002",
+    "categoryID": "e1bf59ae-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000977",
+    "name": "Meat"
+  },
+  {
+    "id": 79,
+    "accountID": "D00002",
+    "categoryID": "ea55b385-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000978",
+    "name": "Nuts, Seeds and Dried Fruit"
+  },
+  {
+    "id": 80,
+    "accountID": "D00002",
+    "categoryID": "f47a3be9-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000979",
+    "name": "Oils and Fats"
+  },
+  {
+    "id": 81,
+    "accountID": "D00002",
+    "categoryID": "fcdc214e-a97b-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000980",
+    "name": "Pasta and Noodles"
+  },
+  {
+    "id": 82,
+    "accountID": "D00002",
+    "categoryID": "04735b66-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000981",
+    "name": "Sauces"
+  },
+  {
+    "id": 83,
+    "accountID": "D00002",
+    "categoryID": "0d002b8c-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "672205f6-a97a-11e9-8100-0050569d7759",
+    "code": "00-00000982",
+    "name": "Soup"
+  },
+  {
+    "id": 84,
+    "accountID": "D00002",
+    "categoryID": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "code": "00-00000983",
+    "name": "Home care"
+  },
+  {
+    "id": 85,
+    "accountID": "D00002",
+    "categoryID": "1319e7d5-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000984",
+    "name": "Air Fragranc"
+  },
+  {
+    "id": 86,
+    "accountID": "D00002",
+    "categoryID": "24f4a983-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000985",
+    "name": "Bleaches"
+  },
+  {
+    "id": 87,
+    "accountID": "D00002",
+    "categoryID": "24f4a984-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000986",
+    "name": "Dish/utensil cleaners"
+  },
+  {
+    "id": 88,
+    "accountID": "D00002",
+    "categoryID": "2f631bff-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000987",
+    "name": "Floor cleaners"
+  },
+  {
+    "id": 89,
+    "accountID": "D00002",
+    "categoryID": "36fcb8bb-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000988",
+    "name": "Furniture polish"
+  },
+  {
+    "id": 90,
+    "accountID": "D00002",
+    "categoryID": "3d30af22-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000989",
+    "name": "Laundry soaps & Powders"
+  },
+  {
+    "id": 91,
+    "accountID": "D00002",
+    "categoryID": "43329371-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "1319e7d4-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000990",
+    "name": "Toilet cleaners"
+  },
+  {
+    "id": 92,
+    "accountID": "D00002",
+    "categoryID": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "code": "00-00000991",
+    "name": "Personal care"
+  },
+  {
+    "id": 93,
+    "accountID": "D00002",
+    "categoryID": "4b70b4e4-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000992",
+    "name": "Deodorants"
+  },
+  {
+    "id": 94,
+    "accountID": "D00002",
+    "categoryID": "55c74f97-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000993",
+    "name": "Hair care"
+  },
+  {
+    "id": 95,
+    "accountID": "D00002",
+    "categoryID": "5ca48f97-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000994",
+    "name": "Oral care"
+  },
+  {
+    "id": 96,
+    "accountID": "D00002",
+    "categoryID": "62b4c216-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000995",
+    "name": "Personal wash"
+  },
+  {
+    "id": 97,
+    "accountID": "D00002",
+    "categoryID": "6a689909-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000996",
+    "name": "Shoe care"
+  },
+  {
+    "id": 98,
+    "accountID": "D00002",
+    "categoryID": "74564a92-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000997",
+    "name": "Skin care"
+  },
+  {
+    "id": 99,
+    "accountID": "D00002",
+    "categoryID": "7a988f79-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "4b70b4e3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00000998",
+    "name": "Toiletries"
+  },
+  {
+    "id": 100,
+    "accountID": "D00002",
+    "categoryID": "82f34dc3-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "code": "00-00000999",
+    "name": "Tobacco Products"
+  },
+  {
+    "id": 101,
+    "accountID": "D00002",
+    "categoryID": "8aff5cf7-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "82f34dc3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00001000",
+    "name": "Cigarette"
+  },
+  {
+    "id": 102,
+    "accountID": "D00002",
+    "categoryID": "9389ca81-a97c-11e9-8100-0050569d7759",
+    "parentFolder": "82f34dc3-a97c-11e9-8100-0050569d7759",
+    "code": "00-00001001",
+    "name": "Other (Tobacco)"
+  },
+  {
+    "id": 103,
+    "accountID": "D00002",
+    "categoryID": "4dce7203-a9f9-11e9-8100-0050569d7759",
+    "parentFolder": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "code": "00-00003507",
+    "name": "Alcoholic Beverages"
+  },
+  {
+    "id": 104,
+    "accountID": "D00002",
+    "categoryID": "54c5ebec-a9f9-11e9-8100-0050569d7759",
+    "parentFolder": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "code": "00-00003508",
+    "name": "Bottled Water"
+  },
+  {
+    "id": 105,
+    "accountID": "D00002",
+    "categoryID": "5ea7b1b4-a9f9-11e9-8100-0050569d7759",
+    "parentFolder": "7bc147b8-a979-11e9-8100-0050569d7759",
+    "code": "00-00003509",
+    "name": "Hot Drinks"
+  },
+  {
+    "id": 167,
+    "accountID": "D00002",
+    "categoryID": "77b700f9-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003571",
+    "name": "ყავა ერთჯერადი"
+  },
+  {
+    "id": 168,
+    "accountID": "D00002",
+    "categoryID": "7e753013-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003572",
+    "name": "ჩაი ერთჯერადი"
+  },
+  {
+    "id": 169,
+    "accountID": "D00002",
+    "categoryID": "85630c9c-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003573",
+    "name": "ყავა ხსნადი"
+  },
+  {
+    "id": 170,
+    "accountID": "D00002",
+    "categoryID": "85630c9d-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003574",
+    "name": "ყავა ნალექიანი"
+  },
+  {
+    "id": 171,
+    "accountID": "D00002",
+    "categoryID": "8d8477cc-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003575",
+    "name": "ყავა ასაწონი"
+  },
+  {
+    "id": 172,
+    "accountID": "D00002",
+    "categoryID": "8d8477cd-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003576",
+    "name": "შავი ჩაი"
+  },
+  {
+    "id": 173,
+    "accountID": "D00002",
+    "categoryID": "8d8477ce-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003577",
+    "name": "მცენარეული ჩაი"
+  },
+  {
+    "id": 174,
+    "accountID": "D00002",
+    "categoryID": "9686028e-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003578",
+    "name": "ხილის და კენკრის ჩაი"
+  },
+  {
+    "id": 175,
+    "accountID": "D00002",
+    "categoryID": "9686028f-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003579",
+    "name": "ჩაი ასაწონი"
+  },
+  {
+    "id": 176,
+    "accountID": "D00002",
+    "categoryID": "9d3aa841-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "91b296e9-9a52-11e5-80bc-000c295e18a3",
+    "code": "00-00003580",
+    "name": "კაკაო"
+  },
+  {
+    "id": 187,
+    "accountID": "D00002",
+    "categoryID": "e1307628-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003591",
+    "name": "ჩიფსი"
+  },
+  {
+    "id": 188,
+    "accountID": "D00002",
+    "categoryID": "ed3da6e0-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003592",
+    "name": "სუხარიკები"
+  },
+  {
+    "id": 189,
+    "accountID": "D00002",
+    "categoryID": "ed3da6e1-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003593",
+    "name": "მარილიანი ჩხირები"
+  },
+  {
+    "id": 190,
+    "accountID": "D00002",
+    "categoryID": "f42920dd-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003594",
+    "name": "მარილიანი ორცხობილები"
+  },
+  {
+    "id": 191,
+    "accountID": "D00002",
+    "categoryID": "f42920de-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003595",
+    "name": "კრეკერები"
+  },
+  {
+    "id": 192,
+    "accountID": "D00002",
+    "categoryID": "fa98bc25-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003596",
+    "name": "პოპკორნი"
+  },
+  {
+    "id": 193,
+    "accountID": "D00002",
+    "categoryID": "fa98bc26-f308-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003597",
+    "name": "მზესუმზირა"
+  },
+  {
+    "id": 194,
+    "accountID": "D00002",
+    "categoryID": "031d78e7-f309-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003598",
+    "name": "დაფასოებული ჩირი"
+  },
+  {
+    "id": 195,
+    "accountID": "D00002",
+    "categoryID": "031d78e8-f309-11ed-8120-005056b5a0aa",
+    "parentFolder": "bd1a2d3a-9a51-11e5-80bc-000c295e18a3",
+    "code": "00-00003599",
+    "name": "დაფასოებული თხილეული"
+  },
+  {
+    "id": 274,
+    "accountID": "D00002",
+    "categoryID": "d3d2a362-f2e9-11ed-8120-005056b5a0aa",
+    "parentFolder": "",
+    "code": "00-00003510",
+    "name": "ENG"
+  },
+  {
+    "id": 275,
+    "accountID": "D00002",
+    "categoryID": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "",
+    "code": "00-00003511",
+    "name": "GEO"
+  },
+  {
+    "id": 276,
+    "accountID": "D00002",
+    "categoryID": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003512",
+    "name": "ალკოჰოლი"
+  },
+  {
+    "id": 277,
+    "accountID": "D00002",
+    "categoryID": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003513",
+    "name": "ბაკალეა"
+  },
+  {
+    "id": 278,
+    "accountID": "D00002",
+    "categoryID": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003514",
+    "name": "გაყინული ხორცპროდუქტი"
+  },
+  {
+    "id": 279,
+    "accountID": "D00002",
+    "categoryID": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003515",
+    "name": "თამბაქო"
+  },
+  {
+    "id": 280,
+    "accountID": "D00002",
+    "categoryID": "bc1da5fe-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003516",
+    "name": "პურეული"
+  },
+  {
+    "id": 281,
+    "accountID": "D00002",
+    "categoryID": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003517",
+    "name": "რძის პროდუქტი & კვერცხი"
+  },
+  {
+    "id": 282,
+    "accountID": "D00002",
+    "categoryID": "c51cc8d4-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003518",
+    "name": "საკონდიტრო ნაწარმი წონით"
+  },
+  {
+    "id": 283,
+    "accountID": "D00002",
+    "categoryID": "c51cc8d5-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003519",
+    "name": "სახლის ნივთები"
+  },
+  {
+    "id": 284,
+    "accountID": "D00002",
+    "categoryID": "cc0d4de4-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003520",
+    "name": "სნეკი"
+  },
+  {
+    "id": 285,
+    "accountID": "D00002",
+    "categoryID": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003521",
+    "name": "ტკბილეული"
+  },
+  {
+    "id": 286,
+    "accountID": "D00002",
+    "categoryID": "d33de99e-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003522",
+    "name": "ცხოველთა კვება"
+  },
+  {
+    "id": 287,
+    "accountID": "D00002",
+    "categoryID": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "parentFolder": "294d02af-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003523",
+    "name": "ჰიგიენა"
+  },
+  {
+    "id": 288,
+    "accountID": "D00002",
+    "categoryID": "b96d39d0-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003524",
+    "name": "ABSOLUT"
+  },
+  {
+    "id": 289,
+    "accountID": "D00002",
+    "categoryID": "d6f33596-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003525",
+    "name": "ASKANELI"
+  },
+  {
+    "id": 290,
+    "accountID": "D00002",
+    "categoryID": "d6f33597-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003526",
+    "name": "Asti Martini"
+  },
+  {
+    "id": 291,
+    "accountID": "D00002",
+    "categoryID": "d6f33598-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003527",
+    "name": "Bacardi"
+  },
+  {
+    "id": 292,
+    "accountID": "D00002",
+    "categoryID": "d6f33599-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003528",
+    "name": "Badagoni"
+  },
+  {
+    "id": 293,
+    "accountID": "D00002",
+    "categoryID": "d6f3359a-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003529",
+    "name": "BAILEYS"
+  },
+  {
+    "id": 294,
+    "accountID": "D00002",
+    "categoryID": "d6f3359b-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003530",
+    "name": "Ballantines"
+  },
+  {
+    "id": 295,
+    "accountID": "D00002",
+    "categoryID": "d6f3359c-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003531",
+    "name": "Bavaria"
+  },
+  {
+    "id": 296,
+    "accountID": "D00002",
+    "categoryID": "d6f3359d-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003532",
+    "name": "BEEFEATER"
+  },
+  {
+    "id": 297,
+    "accountID": "D00002",
+    "categoryID": "d6f3359e-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003533",
+    "name": "Captain Morgan"
+  },
+  {
+    "id": 298,
+    "accountID": "D00002",
+    "categoryID": "d6f3359f-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003534",
+    "name": "Chivas Regal"
+  },
+  {
+    "id": 299,
+    "accountID": "D00002",
+    "categoryID": "d6f335a0-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003535",
+    "name": "Clan Macgregor"
+  },
+  {
+    "id": 300,
+    "accountID": "D00002",
+    "categoryID": "d6f335a1-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003536",
+    "name": "Corona"
+  },
+  {
+    "id": 301,
+    "accountID": "D00002",
+    "categoryID": "d6f335a2-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003537",
+    "name": "DISARONO"
+  },
+  {
+    "id": 302,
+    "accountID": "D00002",
+    "categoryID": "d6f335a3-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003538",
+    "name": "Espolon"
+  },
+  {
+    "id": 303,
+    "accountID": "D00002",
+    "categoryID": "dd2e4144-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003539",
+    "name": "FINLANDIA"
+  },
+  {
+    "id": 304,
+    "accountID": "D00002",
+    "categoryID": "dd2e4145-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003540",
+    "name": "Glenmorangie"
+  },
+  {
+    "id": 305,
+    "accountID": "D00002",
+    "categoryID": "dd2e4146-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003541",
+    "name": "Gomi"
+  },
+  {
+    "id": 306,
+    "accountID": "D00002",
+    "categoryID": "dd2e4147-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003542",
+    "name": "Gordons"
+  },
+  {
+    "id": 307,
+    "accountID": "D00002",
+    "categoryID": "dd2e4148-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003543",
+    "name": "GRANTS"
+  },
+  {
+    "id": 308,
+    "accountID": "D00002",
+    "categoryID": "dd2e4149-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003544",
+    "name": "GREY"
+  },
+  {
+    "id": 309,
+    "accountID": "D00002",
+    "categoryID": "dd2e414a-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003545",
+    "name": "HAVANA"
+  },
+  {
+    "id": 310,
+    "accountID": "D00002",
+    "categoryID": "dd2e414b-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003546",
+    "name": "Hendrisks"
+  },
+  {
+    "id": 311,
+    "accountID": "D00002",
+    "categoryID": "dd2e414c-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003547",
+    "name": "HENNESSY"
+  },
+  {
+    "id": 312,
+    "accountID": "D00002",
+    "categoryID": "dd2e414d-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003548",
+    "name": "Jack Daniels"
+  },
+  {
+    "id": 313,
+    "accountID": "D00002",
+    "categoryID": "dd2e414e-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003549",
+    "name": "Jagermeister"
+  },
+  {
+    "id": 314,
+    "accountID": "D00002",
+    "categoryID": "dd2e414f-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003550",
+    "name": "JIM BEAM"
+  },
+  {
+    "id": 315,
+    "accountID": "D00002",
+    "categoryID": "dd2e4150-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003551",
+    "name": "JOHN JAMESON"
+  },
+  {
+    "id": 316,
+    "accountID": "D00002",
+    "categoryID": "dd2e4151-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003552",
+    "name": "JOHNNIE WALKER"
+  },
+  {
+    "id": 317,
+    "accountID": "D00002",
+    "categoryID": "e34a4de9-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003553",
+    "name": "Jose Cuervo"
+  },
+  {
+    "id": 318,
+    "accountID": "D00002",
+    "categoryID": "e34a4dea-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003554",
+    "name": "KTW"
+  },
+  {
+    "id": 319,
+    "accountID": "D00002",
+    "categoryID": "e34a4deb-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003555",
+    "name": "Marani"
+  },
+  {
+    "id": 320,
+    "accountID": "D00002",
+    "categoryID": "e34a4dec-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003556",
+    "name": "Medoff"
+  },
+  {
+    "id": 321,
+    "accountID": "D00002",
+    "categoryID": "e34a4ded-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003557",
+    "name": "Mildiani"
+  },
+  {
+    "id": 322,
+    "accountID": "D00002",
+    "categoryID": "e34a4dee-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003558",
+    "name": "Monkey Shoulder"
+  },
+  {
+    "id": 323,
+    "accountID": "D00002",
+    "categoryID": "e34a4def-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003559",
+    "name": "Nemiroff"
+  },
+  {
+    "id": 324,
+    "accountID": "D00002",
+    "categoryID": "e34a4df0-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003560",
+    "name": "Ragnar"
+  },
+  {
+    "id": 325,
+    "accountID": "D00002",
+    "categoryID": "e34a4df1-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003561",
+    "name": "Remy Martin"
+  },
+  {
+    "id": 326,
+    "accountID": "D00002",
+    "categoryID": "e34a4df2-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003562",
+    "name": "Royal Club"
+  },
+  {
+    "id": 327,
+    "accountID": "D00002",
+    "categoryID": "e34a4df3-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003563",
+    "name": "Sheridans"
+  },
+  {
+    "id": 328,
+    "accountID": "D00002",
+    "categoryID": "e34a4df4-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003564",
+    "name": "SMIRNOFF"
+  },
+  {
+    "id": 329,
+    "accountID": "D00002",
+    "categoryID": "e34a4df5-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003565",
+    "name": "Staropramen"
+  },
+  {
+    "id": 330,
+    "accountID": "D00002",
+    "categoryID": "e34a4df6-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003566",
+    "name": "Stella Artoa"
+  },
+  {
+    "id": 331,
+    "accountID": "D00002",
+    "categoryID": "e34a4df7-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003567",
+    "name": "Tullamore"
+  },
+  {
+    "id": 332,
+    "accountID": "D00002",
+    "categoryID": "e94e82ee-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003568",
+    "name": "აისი"
+  },
+  {
+    "id": 333,
+    "accountID": "D00002",
+    "categoryID": "e94e82ef-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003569",
+    "name": "ამსტელი"
+  },
+  {
+    "id": 334,
+    "accountID": "D00002",
+    "categoryID": "e94e82f0-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003570",
+    "name": "არგო"
+  },
+  {
+    "id": 335,
+    "accountID": "D00002",
+    "categoryID": "e94e82f1-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003571",
+    "name": "ბაგრატიონი"
+  },
+  {
+    "id": 336,
+    "accountID": "D00002",
+    "categoryID": "e94e82f2-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003572",
+    "name": "ბადაგონი"
+  },
+  {
+    "id": 337,
+    "accountID": "D00002",
+    "categoryID": "e94e82f3-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003573",
+    "name": "ზედაზენი"
+  },
+  {
+    "id": 338,
+    "accountID": "D00002",
+    "categoryID": "e94e82f4-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003574",
+    "name": "თელავის მარანი"
+  },
+  {
+    "id": 339,
+    "accountID": "D00002",
+    "categoryID": "e94e82f5-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003575",
+    "name": "თელიანი ველი"
+  },
+  {
+    "id": 340,
+    "accountID": "D00002",
+    "categoryID": "e94e82f6-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003576",
+    "name": "კაიაკი"
+  },
+  {
+    "id": 341,
+    "accountID": "D00002",
+    "categoryID": "e94e82f7-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003577",
+    "name": "კანტი"
+  },
+  {
+    "id": 342,
+    "accountID": "D00002",
+    "categoryID": "e94e82f8-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003578",
+    "name": "კრუშოვიცე"
+  },
+  {
+    "id": 343,
+    "accountID": "D00002",
+    "categoryID": "e94e82f9-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003579",
+    "name": "ლოვენბრაუ"
+  },
+  {
+    "id": 344,
+    "accountID": "D00002",
+    "categoryID": "e94e82fa-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003580",
+    "name": "მარანი"
+  },
+  {
+    "id": 345,
+    "accountID": "D00002",
+    "categoryID": "e94e82fb-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003581",
+    "name": "მილდიანი"
+  },
+  {
+    "id": 346,
+    "accountID": "D00002",
+    "categoryID": "e94e82fc-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003582",
+    "name": "ნატახტარი"
+  },
+  {
+    "id": 347,
+    "accountID": "D00002",
+    "categoryID": "ef936b89-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003583",
+    "name": "რავი"
+  },
+  {
+    "id": 348,
+    "accountID": "D00002",
+    "categoryID": "ef936b8a-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003584",
+    "name": "ცელსი"
+  },
+  {
+    "id": 349,
+    "accountID": "D00002",
+    "categoryID": "ef936b8b-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "8e73e049-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003585",
+    "name": "ძველი მარანი"
+  },
+  {
+    "id": 350,
+    "accountID": "D00002",
+    "categoryID": "ef936b8c-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003586",
+    "name": "Axa"
+  },
+  {
+    "id": 351,
+    "accountID": "D00002",
+    "categoryID": "ef936b8d-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003587",
+    "name": "AZERSUN"
+  },
+  {
+    "id": 352,
+    "accountID": "D00002",
+    "categoryID": "ef936b8e-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003588",
+    "name": "BARILLA"
+  },
+  {
+    "id": 353,
+    "accountID": "D00002",
+    "categoryID": "ef936b8f-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003589",
+    "name": "BARILLA "
+  },
+  {
+    "id": 354,
+    "accountID": "D00002",
+    "categoryID": "ef936b90-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003590",
+    "name": "Basso"
+  },
+  {
+    "id": 355,
+    "accountID": "D00002",
+    "categoryID": "ef936b91-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003591",
+    "name": "Bonavita"
+  },
+  {
+    "id": 356,
+    "accountID": "D00002",
+    "categoryID": "ef936b92-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003592",
+    "name": "Bonduelle"
+  },
+  {
+    "id": 357,
+    "accountID": "D00002",
+    "categoryID": "ef936b93-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003593",
+    "name": "Bornier"
+  },
+  {
+    "id": 358,
+    "accountID": "D00002",
+    "categoryID": "ef936b94-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003594",
+    "name": "BSG"
+  },
+  {
+    "id": 359,
+    "accountID": "D00002",
+    "categoryID": "ef936b95-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003595",
+    "name": "Calvo"
+  },
+  {
+    "id": 360,
+    "accountID": "D00002",
+    "categoryID": "ef936b96-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003596",
+    "name": "Coopoliva"
+  },
+  {
+    "id": 361,
+    "accountID": "D00002",
+    "categoryID": "f5a38e0c-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003597",
+    "name": "Divella"
+  },
+  {
+    "id": 362,
+    "accountID": "D00002",
+    "categoryID": "f5a38e0d-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003598",
+    "name": "GALINA BLANCA"
+  },
+  {
+    "id": 363,
+    "accountID": "D00002",
+    "categoryID": "f5a38e0e-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003599",
+    "name": "HEINZ"
+  },
+  {
+    "id": 364,
+    "accountID": "D00002",
+    "categoryID": "f5a38e0f-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003600",
+    "name": "Henry's Kitchen"
+  },
+  {
+    "id": 365,
+    "accountID": "D00002",
+    "categoryID": "f5a38e10-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003601",
+    "name": "Kalas"
+  },
+  {
+    "id": 366,
+    "accountID": "D00002",
+    "categoryID": "f5a38e11-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003602",
+    "name": "La Molisana"
+  },
+  {
+    "id": 367,
+    "accountID": "D00002",
+    "categoryID": "f5a38e12-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003603",
+    "name": "Leimer"
+  },
+  {
+    "id": 368,
+    "accountID": "D00002",
+    "categoryID": "f5a38e13-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003604",
+    "name": "Lorado"
+  },
+  {
+    "id": 369,
+    "accountID": "D00002",
+    "categoryID": "f5a38e14-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003605",
+    "name": "Luglio"
+  },
+  {
+    "id": 370,
+    "accountID": "D00002",
+    "categoryID": "f5a38e15-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003606",
+    "name": "Marneuli"
+  },
+  {
+    "id": 371,
+    "accountID": "D00002",
+    "categoryID": "f5a38e16-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003607",
+    "name": "Nestle"
+  },
+  {
+    "id": 372,
+    "accountID": "D00002",
+    "categoryID": "f5a38e17-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003608",
+    "name": "Reggia"
+  },
+  {
+    "id": 373,
+    "accountID": "D00002",
+    "categoryID": "f5a38e18-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003609",
+    "name": "SUPREMO"
+  },
+  {
+    "id": 374,
+    "accountID": "D00002",
+    "categoryID": "f5a38e19-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003610",
+    "name": "აგრიაპი"
+  },
+  {
+    "id": 375,
+    "accountID": "D00002",
+    "categoryID": "f5a38e1a-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003611",
+    "name": "ანაკომი"
+  },
+  {
+    "id": 376,
+    "accountID": "D00002",
+    "categoryID": "fba7c3ae-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003612",
+    "name": "ანაკომი-"
+  },
+  {
+    "id": 377,
+    "accountID": "D00002",
+    "categoryID": "fba7c3af-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003613",
+    "name": "ბარაქა"
+  },
+  {
+    "id": 378,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b0-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003614",
+    "name": "დოშირაკი"
+  },
+  {
+    "id": 379,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b1-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003615",
+    "name": "იამუნა"
+  },
+  {
+    "id": 380,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b2-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003616",
+    "name": "იასნო სოლნიშკო"
+  },
+  {
+    "id": 381,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b3-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003617",
+    "name": "კულა"
+  },
+  {
+    "id": 382,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b4-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003618",
+    "name": "ლაფამილია"
+  },
+  {
+    "id": 383,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b5-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003619",
+    "name": "ოლივკოვი"
+  },
+  {
+    "id": 384,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b6-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003620",
+    "name": "ოჯახური"
+  },
+  {
+    "id": 385,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b7-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003621",
+    "name": "სლობოდა"
+  },
+  {
+    "id": 386,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b8-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003622",
+    "name": "სოლნიშკო"
+  },
+  {
+    "id": 387,
+    "accountID": "D00002",
+    "categoryID": "fba7c3b9-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003623",
+    "name": "ტრი ჟელანიე"
+  },
+  {
+    "id": 388,
+    "accountID": "D00002",
+    "categoryID": "fba7c3ba-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "9a1f48de-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003624",
+    "name": "ჩვენი სუფრა"
+  },
+  {
+    "id": 389,
+    "accountID": "D00002",
+    "categoryID": "fba7c3bb-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003625",
+    "name": "G&G"
+  },
+  {
+    "id": 390,
+    "accountID": "D00002",
+    "categoryID": "fba7c3bc-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003626",
+    "name": "G+G"
+  },
+  {
+    "id": 391,
+    "accountID": "D00002",
+    "categoryID": "fba7c3bd-f555-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003627",
+    "name": "Margiabene"
+  },
+  {
+    "id": 392,
+    "accountID": "D00002",
+    "categoryID": "02042e4b-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003628",
+    "name": "Pamas"
+  },
+  {
+    "id": 393,
+    "accountID": "D00002",
+    "categoryID": "02042e4c-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003629",
+    "name": "Sadia"
+  },
+  {
+    "id": 394,
+    "accountID": "D00002",
+    "categoryID": "02042e4d-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003630",
+    "name": "Schinhofer"
+  },
+  {
+    "id": 395,
+    "accountID": "D00002",
+    "categoryID": "02042e4e-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003631",
+    "name": "Schirnhofer"
+  },
+  {
+    "id": 396,
+    "accountID": "D00002",
+    "categoryID": "02042e4f-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003632",
+    "name": "Vici"
+  },
+  {
+    "id": 397,
+    "accountID": "D00002",
+    "categoryID": "02042e50-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003633",
+    "name": "ბიბილო"
+  },
+  {
+    "id": 398,
+    "accountID": "D00002",
+    "categoryID": "02042e51-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003634",
+    "name": "გალბანი"
+  },
+  {
+    "id": 399,
+    "accountID": "D00002",
+    "categoryID": "02042e52-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003635",
+    "name": "დუშეთის ქათამი"
+  },
+  {
+    "id": 400,
+    "accountID": "D00002",
+    "categoryID": "02042e53-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003636",
+    "name": "ივერია"
+  },
+  {
+    "id": 401,
+    "accountID": "D00002",
+    "categoryID": "02042e54-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1c-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003637",
+    "name": "მარშე"
+  },
+  {
+    "id": 402,
+    "accountID": "D00002",
+    "categoryID": "02042e55-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003638",
+    "name": "American Spirit"
+  },
+  {
+    "id": 403,
+    "accountID": "D00002",
+    "categoryID": "02042e56-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003639",
+    "name": "ASMODUS"
+  },
+  {
+    "id": 404,
+    "accountID": "D00002",
+    "categoryID": "02042e57-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003640",
+    "name": "Camel"
+  },
+  {
+    "id": 405,
+    "accountID": "D00002",
+    "categoryID": "02042e58-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003641",
+    "name": "Chesterfield"
+  },
+  {
+    "id": 406,
+    "accountID": "D00002",
+    "categoryID": "081dda0a-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003642",
+    "name": "Davidoff"
+  },
+  {
+    "id": 407,
+    "accountID": "D00002",
+    "categoryID": "081dda0b-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003643",
+    "name": "Dunhill"
+  },
+  {
+    "id": 408,
+    "accountID": "D00002",
+    "categoryID": "081dda0c-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003644",
+    "name": "Gauloises"
+  },
+  {
+    "id": 409,
+    "accountID": "D00002",
+    "categoryID": "081dda0d-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003645",
+    "name": "Kent"
+  },
+  {
+    "id": 410,
+    "accountID": "D00002",
+    "categoryID": "081dda0e-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003646",
+    "name": "L&M"
+  },
+  {
+    "id": 411,
+    "accountID": "D00002",
+    "categoryID": "081dda0f-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003647",
+    "name": "Lucky Strike"
+  },
+  {
+    "id": 412,
+    "accountID": "D00002",
+    "categoryID": "081dda10-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003648",
+    "name": "Marlboro"
+  },
+  {
+    "id": 413,
+    "accountID": "D00002",
+    "categoryID": "081dda11-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003649",
+    "name": "Parliament"
+  },
+  {
+    "id": 414,
+    "accountID": "D00002",
+    "categoryID": "081dda12-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "b3ab2c1d-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003650",
+    "name": "Winston"
+  },
+  {
+    "id": 415,
+    "accountID": "D00002",
+    "categoryID": "081dda13-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5fe-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003651",
+    "name": "იამუნა"
+  },
+  {
+    "id": 416,
+    "accountID": "D00002",
+    "categoryID": "081dda14-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5fe-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003652",
+    "name": "მზეთამზე"
+  },
+  {
+    "id": 417,
+    "accountID": "D00002",
+    "categoryID": "081dda15-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003653",
+    "name": "Fruittella"
+  },
+  {
+    "id": 418,
+    "accountID": "D00002",
+    "categoryID": "081dda16-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003654",
+    "name": "Fruttis"
+  },
+  {
+    "id": 419,
+    "accountID": "D00002",
+    "categoryID": "081dda17-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003655",
+    "name": "Margiabene"
+  },
+  {
+    "id": 420,
+    "accountID": "D00002",
+    "categoryID": "081dda18-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003656",
+    "name": "Preisident"
+  },
+  {
+    "id": 421,
+    "accountID": "D00002",
+    "categoryID": "081dda19-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003657",
+    "name": "President"
+  },
+  {
+    "id": 422,
+    "accountID": "D00002",
+    "categoryID": "0e99452a-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003658",
+    "name": "თოლია"
+  },
+  {
+    "id": 423,
+    "accountID": "D00002",
+    "categoryID": "0e99452b-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003659",
+    "name": "რასტიშკა"
+  },
+  {
+    "id": 424,
+    "accountID": "D00002",
+    "categoryID": "0e99452c-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003660",
+    "name": "სანებო"
+  },
+  {
+    "id": 425,
+    "accountID": "D00002",
+    "categoryID": "0e99452d-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003661",
+    "name": "სანტე"
+  },
+  {
+    "id": 426,
+    "accountID": "D00002",
+    "categoryID": "0e99452e-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003662",
+    "name": "სანტინო"
+  },
+  {
+    "id": 427,
+    "accountID": "D00002",
+    "categoryID": "0e99452f-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003663",
+    "name": "სანტისიმო"
+  },
+  {
+    "id": 428,
+    "accountID": "D00002",
+    "categoryID": "0e994530-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003664",
+    "name": "სოფლის ნობათი"
+  },
+  {
+    "id": 429,
+    "accountID": "D00002",
+    "categoryID": "0e994531-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "bc1da5ff-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003665",
+    "name": "ჩუდო"
+  },
+  {
+    "id": 430,
+    "accountID": "D00002",
+    "categoryID": "0e994532-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "c51cc8d4-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003666",
+    "name": "Ritter Sport"
+  },
+  {
+    "id": 431,
+    "accountID": "D00002",
+    "categoryID": "0e994533-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "c51cc8d5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003667",
+    "name": "Kodak"
+  },
+  {
+    "id": 432,
+    "accountID": "D00002",
+    "categoryID": "0e994534-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "c51cc8d5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003668",
+    "name": "Linus"
+  },
+  {
+    "id": 433,
+    "accountID": "D00002",
+    "categoryID": "0e994535-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "c51cc8d5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003669",
+    "name": "Selpak"
+  },
+  {
+    "id": 434,
+    "accountID": "D00002",
+    "categoryID": "0e994536-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de4-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003670",
+    "name": "3 კორაჩკი"
+  },
+  {
+    "id": 435,
+    "accountID": "D00002",
+    "categoryID": "0e994537-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003671",
+    "name": "7 Days"
+  },
+  {
+    "id": 436,
+    "accountID": "D00002",
+    "categoryID": "14cf8bcb-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003672",
+    "name": "Bahlsen"
+  },
+  {
+    "id": 437,
+    "accountID": "D00002",
+    "categoryID": "14cf8bcc-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003673",
+    "name": "Barambo"
+  },
+  {
+    "id": 438,
+    "accountID": "D00002",
+    "categoryID": "14cf8bcd-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003674",
+    "name": "Brusket"
+  },
+  {
+    "id": 439,
+    "accountID": "D00002",
+    "categoryID": "14cf8bce-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003675",
+    "name": "Cachet"
+  },
+  {
+    "id": 440,
+    "accountID": "D00002",
+    "categoryID": "14cf8bcf-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003676",
+    "name": "CAPRICE"
+  },
+  {
+    "id": 441,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd0-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003677",
+    "name": "Casali"
+  },
+  {
+    "id": 442,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd1-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003678",
+    "name": "CHOCO BOY"
+  },
+  {
+    "id": 443,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd2-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003679",
+    "name": "Choco Pie"
+  },
+  {
+    "id": 444,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd3-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003680",
+    "name": "Chupa-Chups"
+  },
+  {
+    "id": 445,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd4-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003681",
+    "name": "Dirol"
+  },
+  {
+    "id": 446,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd5-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003682",
+    "name": "Edeka"
+  },
+  {
+    "id": 447,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd6-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003683",
+    "name": "Elit"
+  },
+  {
+    "id": 448,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd7-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003684",
+    "name": "Eti"
+  },
+  {
+    "id": 449,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd8-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003685",
+    "name": "Ferrero"
+  },
+  {
+    "id": 450,
+    "accountID": "D00002",
+    "categoryID": "14cf8bd9-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003686",
+    "name": "Fitness"
+  },
+  {
+    "id": 451,
+    "accountID": "D00002",
+    "categoryID": "1adfacd7-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003687",
+    "name": "Fruittella"
+  },
+  {
+    "id": 452,
+    "accountID": "D00002",
+    "categoryID": "1adfacd8-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003688",
+    "name": "Frutella"
+  },
+  {
+    "id": 453,
+    "accountID": "D00002",
+    "categoryID": "1adfacd9-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003689",
+    "name": "G&G"
+  },
+  {
+    "id": 454,
+    "accountID": "D00002",
+    "categoryID": "1adfacda-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003690",
+    "name": "G+G"
+  },
+  {
+    "id": 455,
+    "accountID": "D00002",
+    "categoryID": "1adfacdb-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003691",
+    "name": "Granforno"
+  },
+  {
+    "id": 456,
+    "accountID": "D00002",
+    "categoryID": "1adfacdc-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003692",
+    "name": "Halls"
+  },
+  {
+    "id": 457,
+    "accountID": "D00002",
+    "categoryID": "1adfacdd-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003693",
+    "name": "Hamlet"
+  },
+  {
+    "id": 458,
+    "accountID": "D00002",
+    "categoryID": "1adfacde-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003694",
+    "name": "Haribo"
+  },
+  {
+    "id": 459,
+    "accountID": "D00002",
+    "categoryID": "1adfacdf-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003695",
+    "name": "Heinz"
+  },
+  {
+    "id": 460,
+    "accountID": "D00002",
+    "categoryID": "1adface0-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003696",
+    "name": "IRIS"
+  },
+  {
+    "id": 461,
+    "accountID": "D00002",
+    "categoryID": "1adface1-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003697",
+    "name": "Kinder"
+  },
+  {
+    "id": 462,
+    "accountID": "D00002",
+    "categoryID": "1adface2-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003698",
+    "name": "Kit-Ket"
+  },
+  {
+    "id": 463,
+    "accountID": "D00002",
+    "categoryID": "1adface3-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003699",
+    "name": "Leibniz"
+  },
+  {
+    "id": 464,
+    "accountID": "D00002",
+    "categoryID": "1adface4-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003700",
+    "name": "Lestelo"
+  },
+  {
+    "id": 465,
+    "accountID": "D00002",
+    "categoryID": "1adface5-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003701",
+    "name": "Lindt"
+  },
+  {
+    "id": 466,
+    "accountID": "D00002",
+    "categoryID": "21302d79-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003702",
+    "name": "Magnum"
+  },
+  {
+    "id": 467,
+    "accountID": "D00002",
+    "categoryID": "21302d7a-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003703",
+    "name": "Merci"
+  },
+  {
+    "id": 468,
+    "accountID": "D00002",
+    "categoryID": "21302d7b-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003704",
+    "name": "Milka"
+  },
+  {
+    "id": 469,
+    "accountID": "D00002",
+    "categoryID": "21302d7c-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003705",
+    "name": "Millennium"
+  },
+  {
+    "id": 470,
+    "accountID": "D00002",
+    "categoryID": "21302d7d-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003706",
+    "name": "Nestle"
+  },
+  {
+    "id": 471,
+    "accountID": "D00002",
+    "categoryID": "21302d7e-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003707",
+    "name": "Nutella"
+  },
+  {
+    "id": 472,
+    "accountID": "D00002",
+    "categoryID": "21302d7f-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003708",
+    "name": "Orbit"
+  },
+  {
+    "id": 473,
+    "accountID": "D00002",
+    "categoryID": "21302d80-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003709",
+    "name": "Oreo"
+  },
+  {
+    "id": 474,
+    "accountID": "D00002",
+    "categoryID": "21302d81-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003710",
+    "name": "Ritter Sport"
+  },
+  {
+    "id": 475,
+    "accountID": "D00002",
+    "categoryID": "21302d82-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003711",
+    "name": "Rosali"
+  },
+  {
+    "id": 476,
+    "accountID": "D00002",
+    "categoryID": "21302d83-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003712",
+    "name": "Roshen"
+  },
+  {
+    "id": 477,
+    "accountID": "D00002",
+    "categoryID": "21302d84-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003713",
+    "name": "Sarotti"
+  },
+  {
+    "id": 478,
+    "accountID": "D00002",
+    "categoryID": "21302d85-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003714",
+    "name": "Toblerone"
+  },
+  {
+    "id": 479,
+    "accountID": "D00002",
+    "categoryID": "21302d86-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003715",
+    "name": "Trolli"
+  },
+  {
+    "id": 480,
+    "accountID": "D00002",
+    "categoryID": "21302d87-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003716",
+    "name": "Valor"
+  },
+  {
+    "id": 481,
+    "accountID": "D00002",
+    "categoryID": "274e9af5-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003717",
+    "name": "Vobro"
+  },
+  {
+    "id": 482,
+    "accountID": "D00002",
+    "categoryID": "274e9af6-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003718",
+    "name": "აგროფაი"
+  },
+  {
+    "id": 483,
+    "accountID": "D00002",
+    "categoryID": "274e9af7-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003719",
+    "name": "ბარამბო"
+  },
+  {
+    "id": 484,
+    "accountID": "D00002",
+    "categoryID": "274e9af8-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003720",
+    "name": "ბარნი"
+  },
+  {
+    "id": 485,
+    "accountID": "D00002",
+    "categoryID": "274e9af9-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003721",
+    "name": "ბელვიტა"
+  },
+  {
+    "id": 486,
+    "accountID": "D00002",
+    "categoryID": "274e9afa-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003722",
+    "name": "გრანდ"
+  },
+  {
+    "id": 487,
+    "accountID": "D00002",
+    "categoryID": "274e9afb-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003723",
+    "name": "დიროლი"
+  },
+  {
+    "id": 488,
+    "accountID": "D00002",
+    "categoryID": "274e9afc-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003724",
+    "name": "თოლია"
+  },
+  {
+    "id": 489,
+    "accountID": "D00002",
+    "categoryID": "274e9afd-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003725",
+    "name": "იაშკინო"
+  },
+  {
+    "id": 490,
+    "accountID": "D00002",
+    "categoryID": "274e9afe-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003726",
+    "name": "ლოლიპოპი-კანფეტი"
+  },
+  {
+    "id": 491,
+    "accountID": "D00002",
+    "categoryID": "274e9aff-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003727",
+    "name": "მარეტი"
+  },
+  {
+    "id": 492,
+    "accountID": "D00002",
+    "categoryID": "274e9b00-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003728",
+    "name": "მენთოსი"
+  },
+  {
+    "id": 493,
+    "accountID": "D00002",
+    "categoryID": "274e9b01-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003729",
+    "name": "მილენიუმი"
+  },
+  {
+    "id": 494,
+    "accountID": "D00002",
+    "categoryID": "274e9b02-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003730",
+    "name": "ოზერა"
+  },
+  {
+    "id": 495,
+    "accountID": "D00002",
+    "categoryID": "274e9b03-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003731",
+    "name": "როზალი"
+  },
+  {
+    "id": 496,
+    "accountID": "D00002",
+    "categoryID": "274e9b04-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003732",
+    "name": "საიუბილეო"
+  },
+  {
+    "id": 497,
+    "accountID": "D00002",
+    "categoryID": "2d8743b4-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003733",
+    "name": "ულქერი"
+  },
+  {
+    "id": 498,
+    "accountID": "D00002",
+    "categoryID": "2d8743b5-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003734",
+    "name": "შოლენ"
+  },
+  {
+    "id": 499,
+    "accountID": "D00002",
+    "categoryID": "2d8743b6-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "cc0d4de5-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003735",
+    "name": "ჯორჯიან ბეიქერსი"
+  },
+  {
+    "id": 500,
+    "accountID": "D00002",
+    "categoryID": "2d8743b7-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99e-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003736",
+    "name": "Edeka"
+  },
+  {
+    "id": 501,
+    "accountID": "D00002",
+    "categoryID": "2d8743b8-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99e-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003737",
+    "name": "Felix"
+  },
+  {
+    "id": 502,
+    "accountID": "D00002",
+    "categoryID": "2d8743b9-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99e-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003738",
+    "name": "Friskies"
+  },
+  {
+    "id": 503,
+    "accountID": "D00002",
+    "categoryID": "2d8743ba-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003739",
+    "name": "Always"
+  },
+  {
+    "id": 504,
+    "accountID": "D00002",
+    "categoryID": "2d8743bb-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003740",
+    "name": "Blend A Med"
+  },
+  {
+    "id": 505,
+    "accountID": "D00002",
+    "categoryID": "2d8743bc-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003741",
+    "name": "Colgate"
+  },
+  {
+    "id": 506,
+    "accountID": "D00002",
+    "categoryID": "2d8743bd-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003742",
+    "name": "Compact"
+  },
+  {
+    "id": 507,
+    "accountID": "D00002",
+    "categoryID": "2d8743be-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003743",
+    "name": "Cotoneve"
+  },
+  {
+    "id": 508,
+    "accountID": "D00002",
+    "categoryID": "2d8743bf-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003744",
+    "name": "Discreet"
+  },
+  {
+    "id": 509,
+    "accountID": "D00002",
+    "categoryID": "2d8743c0-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003745",
+    "name": "DOVE"
+  },
+  {
+    "id": 510,
+    "accountID": "D00002",
+    "categoryID": "2d8743c1-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003746",
+    "name": "Frosch"
+  },
+  {
+    "id": 511,
+    "accountID": "D00002",
+    "categoryID": "2d8743c2-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003747",
+    "name": "Kotex"
+  },
+  {
+    "id": 512,
+    "accountID": "D00002",
+    "categoryID": "2d8743c3-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003748",
+    "name": "Libresse"
+  },
+  {
+    "id": 513,
+    "accountID": "D00002",
+    "categoryID": "33bd8c42-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003749",
+    "name": "Oral B"
+  },
+  {
+    "id": 514,
+    "accountID": "D00002",
+    "categoryID": "33bd8c43-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003750",
+    "name": "Palmolive"
+  },
+  {
+    "id": 515,
+    "accountID": "D00002",
+    "categoryID": "33bd8c44-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003751",
+    "name": "Pantene"
+  },
+  {
+    "id": 516,
+    "accountID": "D00002",
+    "categoryID": "33bd8c45-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003752",
+    "name": "Safeguard"
+  },
+  {
+    "id": 517,
+    "accountID": "D00002",
+    "categoryID": "33bd8c46-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003753",
+    "name": "Selpak"
+  },
+  {
+    "id": 518,
+    "accountID": "D00002",
+    "categoryID": "33bd8c47-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003754",
+    "name": "Vanish"
+  },
+  {
+    "id": 519,
+    "accountID": "D00002",
+    "categoryID": "33bd8c48-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003755",
+    "name": "Vileda"
+  },
+  {
+    "id": 520,
+    "accountID": "D00002",
+    "categoryID": "33bd8c49-f556-11ed-8120-005056b5a0aa",
+    "parentFolder": "d33de99f-f4b1-11ed-8120-005056b5a0aa",
+    "code": "00-00003756",
+    "name": "Zewa"
+  }
+]
