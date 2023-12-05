@@ -8,9 +8,9 @@ import deilyData from "./deily.json"
 
 
 
-// let startData = deilyData;
+let startData = deilyData;
 // let startData = foodmartData
-let startData = gdmData
+// let startData = gdmData
 // let startData = pepsiData
 
 // categoryID
